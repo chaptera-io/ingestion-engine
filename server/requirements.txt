@@ -3,5 +3,3 @@ firebase_admin
 uuid
 openai
 pdfplumber
-json
-os

@@ -4,7 +4,6 @@ import uuid
 from firebase_admin import credentials, firestore
 import os
 import openai
-import json
 import pdfplumber
 import openai
 
@@ -31,7 +30,7 @@ app = Flask(__name__)
 def store_content():
     
 # Define PDF file path and other details directly
-    pdf_path = "/Users/jq4386/Github/Personal/berkeley-hackathon/Chapter 9.pdf"  # Replace with your actual path
+    pdf_path = "../Chapter 9.pdf"  # Replace with your actual path
     project_name = "Preferential Trade Agreements"
     chapter = "9"
     content_type = "TextDump"
