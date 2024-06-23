@@ -6,35 +6,40 @@ import os
 import openai
 import pdfplumber
 import openai
+import io
 
 
 
-# Initialize Firebase
+import requests
+ 
+# infer credentials from environment variables
 firebase_admin.initialize_app()
-db = firestore.client()
-
+ 
 # OpenAI API Configuration
 openai.api_key = os.environ.get('OPENAI_API_KEY')
-
-
+ 
+ 
 app = Flask(__name__)
-
+db = firestore.client()
+ 
 # def load_extracted_data(file_path):
 #     """
 #     Loads extracted data from a JSON file.
 #     """
 #     with open(file_path, 'r') as f:
 #         return json.load(f)
-
+ 
 @app.route('/store_content', methods=['POST'])
 def store_content():
-    
+ 
 # Define PDF file path and other details directly
-    pdf_path = "../Chapter 9.pdf"  # Replace with your actual path
-    project_name = "Preferential Trade Agreements"
-    chapter = "9"
-    content_type = "TextDump"
-        
+# pdf_path = "/Users/jq4386/Github/Personal/berkeley-hackathon/Chapter 9.pdf"  # Replace with your actual path
+    data = request.get_json()
+    project_name = data['project_name']
+    chapter = data['chapter']
+    content_type = data['content_type']
+    url = data['url']
+
     def extract_text_from_page(page):
         """
         Extracts text from a single PDF page, attempting OCR if the initial extraction fails.
@@ -44,17 +49,23 @@ def store_content():
             text = page.extract_text(x_tolerance=3, y_tolerance=3, use_text_flow=True, extra_attrs=["fontname", "size"])
         return text
 
-    def extract_text_from_pdf(pdf_path):
+    def get_pdf_bytes(url):
+        response = requests.get(url)
+        response.raise_for_status()  # Check if the request was successful
+        return response.content
+
+    def extract_text_from_pdf(pdf_url):
+        pdf_bytes = get_pdf_bytes(pdf_url)
         extracted_text = ""
-        with pdfplumber.open(pdf_path) as pdf:
+        with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
             for page_num, page in enumerate(pdf.pages):
                 print(f"Processing page {page_num + 1}...")
                 extracted_text += extract_text_from_page(page) + "\n\n"
         return extracted_text
-    
+
     try:
         # Extract text directly from PDF
-        extracted_text = extract_text_from_pdf(pdf_path)
+        extracted_text = extract_text_from_pdf(url)
 
         # Generate document ID and store in Firestore
         doc_id = str(uuid.uuid4())
