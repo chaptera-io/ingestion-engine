@@ -4,8 +4,13 @@ import uuid
 from firebase_admin import credentials, firestore
 import os
 
+
+
 # infer credentials from environment variables
 firebase_admin.initialize_app()
+
+# OpenAI API Configuration
+openai.api_key = os.environ.get('OPENAI_API_KEY')
 
 
 app = Flask(__name__)
