@@ -17,3 +17,4 @@ server/venv
 server/__pycache__/
 server/db/__pycache__/
 server/uploads/*
+server/.env
