@@ -1,0 +1,1589 @@
+CHAPTER
+9
+Preferential
+Trade Agreements
+and the Global
+Trade Regime
+The major trading nations supported multilateral trade liberalization
+when they signed the General Agreement on Tariffs and Trade (GATT)
+in 1947, but a number of preferential trade agreements (PTAs) were
+also created. PTAs can be defined as trade agreements among a limited group
+of countries that provide trade preferences to the members. Most PTAs ori-
+ginally included countries within a particular region, such as the European
+Community and the Central American Common Market. However, about
+one half of PTAs in force today are transregional agreements that involve
+connections among regions and transcend regional boundaries.1 To include
+transregional as well as regional trade agreements we use the term PTAs, even
+though the WTO and some authors use the term regional trade agreements
+(RTAs) when referring to all of these agreements. Mainly because of the
+growing diversity of WTO members and the inability to conclude the WTO
+Doha Round agreement, the value of intra- PTA trade increased from about
+28 percent of world trade in 1990 to 50 percent in 2008.2 The first part of this
+chapter examines why PTAs are formed and how they affect the global trade
+regime; the second part focuses on some specific PTAs. One difference between
+transregional and regional PTAs is that some regional PTAs, such as the EU
+and Mercosur in South America, are at higher levels of integration. The stages
+or levels of integration include the following (see Figure 9.1):
+1 Free trade area (FTA). Member states eliminate tariffs and other
+restrictions on substantially all trade with one another, but each member
+can retain its own trade policies toward non-m ember states. Thus, an
+FTA poses less of a threat to national sovereignty and is more acceptable
+to states with politically sensitive relationships. More than 90 percent of
+PTAs are FTAs. The North American Free Trade Agreement (NAFTA)
+263
+
+264 III THE ISSUE AREAS
+Free trade Customs Common Economic Political
+area (FTA) union (CU) market union union
+Removal of tariffs
+X X X X X
+among members
+Common external tariff X X X X
+Free movement of
+X X X
+labor and capital
+Harmonized
+X X
+economic policies
+Political unification X
+FIGURE 9.1
+Stages of Regional Economic Integration
+and the free trade agreement of the Association of Southeast Asian
+Nations (ASEAN) are examples.
+2 Customs union (CU). A CU has the characteristics of an FTA plus
+a common external tariff (CET) toward outside states. A CU has
+institutions to administer the CET, and the members have less ability to
+make independent decisions. When six states (France, West Germany,
+Italy, Belgium, the Netherlands, and Luxembourg) formed the European
+Community (EC) as a CU in 1957, the UK was not included because it
+wanted to retain its Commonwealth preference system. To join the EC, the
+UK would have to raise its tariffs with Commonwealth countries to the
+same levels as the CET. Instead, the UK formed the European Free Trade
+Association (EFTA) with Austria, Denmark, Norway, Portugal, Sweden,
+and Switzerland in 1960 and retained its Commonwealth preferences.
+However, the UK’s trade with EC members gradually increased, and in
+1973 it joined the EC and phased out its Commonwealth preferences.
+There are only a small number of CUs, and the European Union (EU) is
+the most important of them. (We use the term EC from 1957 to 1992, and
+EU after 1992 to reflect the name change in 1993.)
+3 Common market. A common market has the characteristics of a CU
+plus the free mobility of factors of production (labor and capital) among
+members. The increased labor mobility induces members to establish
+similar health, safety, educational, and social security standards so that
+no country’s workers have a competitive advantage. Successful common
+markets are rare because they require high levels of integration; the EU is
+a common market.
+4 Economic union. An economic union has the characteristics of a common
+market, and it harmonizes members’ industrial, regional, transport, fiscal,
+and monetary policies. A full economic union includes a monetary union
+with a common currency. As discussed, 19 of the 28 EU members have
+adopted the euro as their common currency.
+5 Political union. A political union has the characteristics of an economic
+union and also harmonizes members’ foreign and defense policies. A fully
+
+9 PREFERENTIAL TRADE AGREEMENTS 265
+developed political union is more like a federal political system than an
+agreement among sovereign states.
+It is important to note that these stages of integration are models that
+do not fully describe reality. NAFTA, for example, is an FTA (stage 1); but
+its provisions also require more openness toward foreign investment identi-
+fied with stage 3 (a common market). Furthermore, some PTAs in the South
+described as CUs and common markets have not actually reached those levels.
+Although these stages are only models, they provide general guidance to the
+process by which states become more integrated.
+PTAS AND THE GPE THEORETICAL PERSPECTIVES
+In some cases WTO multilateralism and PTAs are competing approaches
+to trade. Whereas multilateralism contributes to global trade liberalization,
+PTAs may divide the world into competing trade blocs. However, open PTAs
+can break down national trade barriers and serve as a stepping stone rather
+than an obstacle to global free trade. PTAs following open principles abolish
+barriers on substantially all trade among members and lower trade barriers to
+outsiders. MNCs often use open regionalism and multilateralism as comple-
+mentary strategies to promote market forces and increase their competitive-
+ness in the global economy.
+Liberal economists see multilateralism as the best route to freer trade
+because it breaks down preferential as well as national trade barriers. Some
+liberals who are highly committed to multilateralism focus on “the damage”
+PTAs “impose on the multilateral trading system.”3 For example, they view
+the recent trend toward forming numerous bilateral FTAs as producing over-
+lapping FTAs that undermine “transparency and predictability in international
+trade relations.”4 Other liberals take a more nuanced approach. They consider
+closed PTAs as a threat to global free trade, but they support open PTAs as
+a “second- best” route to trade liberalization when global trade negotiations
+fail. Although they acknowledge that open PTAs may harm some groups such
+as displaced workers, they believe that the efficiency gains outweigh the costs
+incurred. They do not view power disparities as a problem for smaller states in
+PTAs because they assume that all states benefit from open PTAs. Indeed, they
+argue that small states benefit more than large states because of economies of
+scale and increased demand for their exports. Neomercantilists and Marxists
+by contrast believe that PTAs have important distributional effects, with some
+states benefiting at the expense of others. Neomercantilists argue that larger
+PTA members expect “side payments” from smaller members that exceed any
+economic benefits the smaller members receive from gains in market access and
+economies of scale. For example, Canada and Mexico sought free trade with the
+United States to gain more assured access to the large U.S. market. The United
+States, however, expected side payments in foreign investment, services trade,
+and access to natural resources—e specially energy.5 Thus, neomercantilists
+expect the distribution of benefits in PTAs to reflect the asymmetries of power,
+
+266 III THE ISSUE AREAS
+wealth, and technology among member states. Marxists see MNCs and trans-
+national capital as the main beneficiaries of PTAs, and the working class and
+poorest states as the main losers. MNCs locate their production in states with
+the lowest wages, environmental standards, and taxes and export freely to
+other states in the PTA.
+PTAS AND GLOBALIZATION
+As discussed, the WTO uses the term regional trade agreements for transregional
+or cross- regional agreements as well as regional agreements. For example, the
+EU has bilateral FTAs with Mexico, Chile, and South Africa; and the United
+States has bilateral FTAs with Singapore, Chile, Israel, and Jordan. We there-
+fore use the term preferential trade agreements because it better captures these
+agreements among states in different geographic regions.
+In some respects, globalization is necessary to deal with current world
+problems. As interdependence increases, financial crises, trade wars, and envir-
+onmental degradation require management at the global level. The WTO, IMF,
+and World Bank are better equipped than preferential agreements to deal with
+these problems. Globalization also promotes linkages among states in different
+PTAs, and in this sense it can undermine PTA cohesiveness. However, global-
+ization may also stimulate the growth of PTAs. States often rely on institutions
+above the national level to deal with global interdependence issues, but IOs
+with large, diverse memberships may be unable to identify common interests
+and sanction defectors.6 Thus, PTAs composed of like-m inded states may be
+more effective than larger multilateral institutions in dealing with cross- national
+problems. Globalization also contributes to increased competition, and states
+and MNCs can often improve their global competitiveness by organizing
+regionally or transregionally. For example, European MNCs have improved
+their global competitiveness by using the EU as a regional platform, and U.S.
+MNCs have benefited from the existence of NAFTA. Furthermore, globaliza-
+tion is associated with neoliberalism, which favors a shift in authority from the
+state to the market. Market pressures weaken state barriers and contribute to
+the growth of private and public linkages at both the PTA and global levels.
+Thus, PTAs and globalization can be both conflictual and complementary.7
+A HISTORICAL OVERVIEW OF PTAS
+Trade regionalism and transregionalism extend back to ancient times. The
+Roman Empire fostered trade transregionalism from the first to fifth centuries
+CE, and the spread of Roman law and Latin in major outposts provided sta-
+bility for this trade. Thus, Egypt imported metals, wine, and olive oil from Italy
+and other parts of Europe, and exported grain and flax. British Imperialism also
+used transregional trade. When Great Britain imposed a 10 percent tariff on
+most imports in response to the Great Depression, it adopted an imperial pref-
+erence system with the dominions at a 1932 Ottawa conference. This formed
+the basis for the British Commonwealth preference system as decolonization
+
+9 PREFERENTIAL TRADE AGREEMENTS 267
+proceeded.8 Examples of early regional integration efforts were an 1826 CU
+between England and Ireland; an 1833 treaty establishing a Zollverein or CU
+among German states; and an 1854 Canada– U.S. Reciprocity Treaty removing
+all tariffs on natural products. Examples in the South included a 1910 South
+African Customs Union among the Union of South Africa, Bechuanaland,
+Basutoland, and Swaziland; and a 1917 CU among the British colonies of
+Kenya, Uganda, and Tanganyika.9 Regional integration in its modern form
+developed after World War II with the creation of the EC. This chapter deals
+with the two major waves of PTAs during the postwar period.
+The First Wave of PTAs
+In 1949 the Soviet Union signed a treaty with Bulgaria, Czechoslovakia,
+Hungary, Poland, and Romania establishing the Council for Mutual Economic
+Assistance (CMEA). Although CMEA members engaged in technical cooper-
+ation and joint planning, state-c entered central planning precluded any moves
+toward regional economic integration.10 Thus, most writers view the first
+wave of PTAs as beginning with the formation of the EC in 1957 and EFTA
+in 1960.11 PTAs then spread to Latin America and Africa during the 1960s.
+However, PTAs in the South were designed mainly to provide larger markets
+and economies of scale for LDC production of industrial goods through import
+substitution policies. The first wave of PTAs was largely unsuccessful outside
+Europe, because the South’s attempts to promote import substitution at the
+regional level led to numerous problems. Only a limited number of indus-
+tries were willing to locate in Southern PTAs, and they were concentrated in
+the larger, more advanced LDCs. This unequal distribution of benefits led to
+disputes among member states; in the East African Common Services Union,
+for example, Tanzania and Uganda were resentful that most industries located
+in Kenya. Some Southern PTAs tried to allocate industries among members by
+bureaucratic means, but this led to economic inefficiencies and further conflict.
+PTAs in the first wave (the 1950s to 1960s) also had some other
+characteristics. First, all PTA members were from the same geographic region.
+Second, the PTAs were plurilateral rather than bilateral; that is, they were
+formed among at least three states. Third, the PTAs were either among DCs
+(North– North) or among LDCs (South– South). For example, six European
+states formed the EC, and four Central American states formed the Central
+American Common Market. Fourth, the United States as global hegemon
+firmly supported multilateral trade, generally opposed PTAs, and would not
+join them. The United States made an exception in supporting the EC to pro-
+mote an economically strong Western Europe in the Cold War struggle with
+the Soviet Union.12
+The Second Wave of PTAs
+The second wave of PTAs, which began in the 1980s, is much more widespread
+and durable than the first wave. The most notable part of the second wave has
+
+268 III THE ISSUE AREAS
+been the proliferation of PTAs since the creation of the WTO. GATT/W TO
+members are to notify the organization of all PTAs in which they participate.
+Notifications refer to both the creation of new PTAs and the accession of new
+states to a PTA (e.g., the 2007 accession of Romania and Bulgaria to the EU).
+From 1948 to 1994 the GATT received 124 notifications of PTAs covering
+trade in goods, and from 1995 to 2015 the WTO received over 400 additional
+notifications of PTAs covering trade in goods or services.13 Furthermore,
+a number of PTAs today have not been notified to the WTO.14 Many states
+view PTAs as the centerpiece of their commercial policy, and for some WTO
+members preferential trade now accounts for more than 90 percent of their
+total trade.15 A second notable feature of the second wave is that many of the
+PTAs are transregional; for example, Chile has a number of transregional bilat-
+eral trade agreements.
+What accounts for the importance of the second wave? First, the EU has
+broadened and deepened the integration process. Table 9.1 shows that there
+were 28 EU members in 2015; 19 of these members (with an asterisk *) have
+adopted the euro as a common currency. Second, the United States reversed
+its policy and has formed FTAs with a growing number of countries. Third,
+NAFTA was the first reciprocal PTA between DCs (the United States and
+Canada) and an LDC (Mexico). This marked a change from the PTAs in the
+first wave which were only North– North or South– South. Fourth, the second
+wave is marked by a proliferation of bilateral PTAs, unlike the plurilateral
+PTAs of the first wave. Fifth, LDCs are joining in a growing number of PTAs,
+which are no longer based on import substitution policies and are more open to
+global market forces. Finally, there are attempts to form larger cross- regional
+PTAs such as the Comprehensive and Progressive Agreement for Trans- Pacific
+Partnership (CPTPP).16
+EXPLANATIONS FOR THE RISE OF REGIONAL
+INTEGRATION
+As discussed, transregional PTAs generally do not lead to integration about
+the FTA level. We therefore focus our discussion of integration mainly on the
+regional level. Neomercantilists, liberals, and Marxists emphasize different
+factors in explaining the rise of regional integration. Whereas neomercantilists
+look to security and power relationships, liberals focus on the growth of inter-
+dependence, and Marxists emphasize the role of transnational capital.
+Neomercantilist Explanations
+Some neomercantilists see regional integration as a response to security and
+power relationships. For example, the U.S.– Soviet bipolar system after World
+War II helped spark European integration for several reasons. First, most
+EC members were also members of the NATO alliance, and “tariff cuts are
+more likely between allies than between states belonging to different military
+
+9 PREFERENTIAL TRADE AGREEMENTS 269
+TABLE 9.1
+Expanding Membership of the European Union
+GDP GDP per Capita
+Member Population (PPP) % as % of EU
+Year Members % Added Addition Average
+1957 France*, West Germany, 100 N/ A 100
+Italy*, Belgium*,
+Netherlands*, Luxembourg*
+1973 United Kingdom, Denmark, 33.4 31.9 96.4
+Ireland*
+1981 Greece* 3.7 1.8 48.4
+1986 Spain*, Portugal* 17.8 11 62.2
+1990 Germany unified* 5.9 3.8
+1995 Austria*, Finland*, Sweden 6.3 6.5 103.5
+2004 Cyprus*, Czech Republic, 19.6 8.9 45.4
+Estonia*, Hungary, Latvia*,
+Lithuania*, Malta*, Poland,
+Slovakia*, Slovenia*
+2007 Bulgaria, Romania 6.5 2 17.7
+2013 Croatia 0.8 0.7 38.8
+Notes: * = eurozone members
+Sources: The World Bank— GDP per Capita (current US$).
+Eurostat— Tables, Graphs, and Maps— Population by Country by year 2003– 2014.
+http:// data.worldbank.org/ indicator/ Ny.GDP.PCAP.CD/ countries?page=1
+http:// ec.europa.eu/ eurostat/ tgm/ refreshTableAction.do?tab=table&plugin=1
+&pcode=tps00001&language=en
+coalitions.”17 Second, the U.S. and Soviet superpowers assumed the main
+security responsibilities under the bipolar system, and this enabled Western
+Europe to focus on regional economic integration.18 Third, the emergence of
+the United States and Soviet Union as superpowers gave Europeans an incentive
+to form the EC. With European states facing the loss of their colonies, integra-
+tion was necessary if they were to retain some influence in the bipolar world.
+Fourth, although the United States generally opposed PTAs during the 1950s–
+1960s, it supported the EC because Western Europe’s economic recovery was
+viewed as essential to meeting the Soviet security threat. Indeed, U.S. insistence
+that Europeans jointly administer U.S. Marshall Plan aid resulted in the for-
+mation of the Organisation for European Economic Co-operation (OEEC) in
+1948. The OEEC also oversaw moves toward the convertibility of European
+currencies and the integration of West Germany in Western Europe; this laid
+the foundations for the formation of the EC.19
+When the Soviet Union collapsed and the Cold War ended in the early
+1990s, the neomercantilist John Mearsheimer argued that the EU would no
+longer be necessary to counter the Soviet threat. Thus, EU integration would
+
+270 III THE ISSUE AREAS
+decline and each EU member would begin to focus on its relative gains vis-à - vis
+the other members. However, the formation of the eurozone and the expansion
+of the EU to 28 members indicated that other factors also had to be considered
+(see discussion in this chapter).20 Furthermore, neomercantilists looking at some
+other states and regions in the 1980s– 1990s predicted that regional integration
+would increase. After World War II, the United States as global hegemon used
+its power and resources to support the GATT- based multilateral trade regime.
+As U.S. economic hegemony declined, it was less willing to continue providing
+this support, and it sought to regain its economic leverage by joining PTAs such
+as NAFTA. U.S. participation in PTAs was a major factor contributing to the
+rise of regional integration in the second wave.21 Some neomercantilists also
+point to security considerations in explaining the formation of some North–
+South bilateral FTAs. For example, Singapore and South Korea sought bilat-
+eral FTAs with the United States partly to maintain a continued U.S. presence
+in East Asia as a counterbalance to China, Japan, and North Korea.22
+Liberal Explanations
+Liberals have been the main contributors to regional integration theory.
+We discuss liberal theory on the deepening of integration from an FTA to a
+CU, common market, and economic union in the section of this chapter on
+Europe. Liberal views concerning the reasons states form PTAs include the
+following:
+Global and regional institutions are created to support a liberal economic
+■
+order. Liberalism in the postwar era was closely linked with the creation
+of the IMF, World Bank, GATT, and PTAs.
+PTAs are created to promote regional peace. For example, France, West
+■
+Germany, Italy, the Netherlands, Belgium, and Luxembourg formed the
+European Coal and Steel Community (ECSC) in 1951 to integrate France
+and West Germany’s coal and steel resources and prevent them from
+renewing their age-o ld conflicts. (The six ECSC members formed the EC
+in 1957.) These views draw on David Mitrany’s theory of functionalism,
+which states that “international economic and social cooperation is a
+major prerequisite for the ultimate solution of political conflicts and the
+elimination of war.”23
+PTAs are formed to provide a larger market for members’ goods. The EC
+■
+agreement was based partly on an understanding that it would provide
+a regional market for France’s agricultural goods and West Germany’s
+industrial products. A major attraction of NAFTA for the two smaller
+partners (Canada and Mexico) was free trade access to the much larger
+U.S. market for their exports.
+PTAs are formed to increase foreign investment. For example, Mexico
+■
+joined NAFTA partly to attract more foreign investment from the United
+States; and the United States supported NAFTA partly to liberalize
+regional foreign investment flows.
+
+9 PREFERENTIAL TRADE AGREEMENTS 271
+PTA negotiations are often a more achievable route to freer trade than
+■
+GATT/ WTO negotiations because they involve smaller groups of like-
+minded states. Thus, the number of PTAs increased rapidly as a result
+of problems with the Uruguay and Doha Rounds. Furthermore, states
+may seek PTAs to provide a positive demonstration effect for the GATT/
+WTO; for example, the 1988 Canada–U .S. Free Trade Agreement
+(CUSFTA) included provisions on trade in services and agriculture before
+GATT addressed these issues.24
+PTAs are formed because of pressure from domestic groups. With
+■
+globalization, many private firms have become more dependent
+on trade and have shifted their operations from the national to the
+multinational level. These internationalist firms pressure for regional and
+transregional as well as global trade agreements. Regionalism improves
+the competitiveness of international firms, because they benefit from “the
+larger regional markets as their base rather than just the home market.”25
+PTAs are formed as part of a “two-l evel game,” in which political leaders
+■
+use the PTA regulations to bring about domestic changes. For example,
+Canada sought the CUSFTA partly because “more open borders
+would expose Canadian firms to greater international competition and
+encourage them to restructure and modernize.”26
+Marxist Explanations
+Marxists, like liberals, see MNCs as having a central role in the creation of
+PTAs (see Chapter 10). Unlike liberals, however, Marxists believe that PTAs
+permit MNCs to locate their production facilities in states with the lowest taxes,
+wages, and environmental standards and then export freely within the PTA.
+Whereas the capitalist class benefits from the growth of PTAs, domestic labor
+suffers because capital can move more easily to low- wage regions and states.
+Marxists also attribute the development of PTAs to the desire of powerful
+states to seek regional hegemony. As its global economic hegemony declined,
+the United States sought to recoup its losses by establishing its hegemony
+more firmly on a regional basis. Thus, some critics charge that NAFTA was
+“designed to fit Canada and Mexico into the American model of development,
+on terms amenable to American corporations.”27
+THE GATT/ WTO AND PTAS
+Governments and private actors have focused increasingly on PTAs to achieve
+their objectives because of their disappointment with the WTO’s limitations.
+As discussed in Chapter 8, the U.S. and EU have concluded TRIPS-plus
+agreements that go beyond the WTO’s Trade Related Aspects of Intellectual
+Property (TRIPS) agreement. The U.S. pharmaceutical industry is one example
+of private efforts to support TRIPS-p lus provisions partly to maintain their
+monopolies, keep prices high, and limit the use of generic drugs. The U.S. has
+PTAs with many countries that have TRIPS-p lus provisions, and LDCs often
+
+272 III THE ISSUE AREAS
+accept them in return for U.S. foreign investment and more access to the
+U.S. market for their exports. The EU also provides technical assistance, finan-
+cial aid, and market access in exchange for TRIPS-p lus agreements.28 A second
+objective in forming PTAs is to include investor-s tate dispute settlement (ISDS)
+provisions. Only states have direct access to WTO dispute settlement. The
+North American Free Trade Agreement (NAFTA) by contrast was the first
+PTA to also give private investors access to dispute settlement through inter-
+national tribunals related to a government’s investment measures. MNCs view
+the ISDS provisions in PTAs as protecting them from discrimination by states,
+but neomercantilists see them as “a vehicle for investors to harass governments
+whose policies they dislike.”29 A third reason for forming PTAs relates to
+export promotion. The Asian “tigers”—H ong Kong, Singapore, South Korea,
+and Taiwan— are highly export oriented. Exports are worth about 45 percent
+of GDP in South Korea, 65 percent in Taiwan, and almost 200 percent in Hong
+Kong and Singapore. The four tigers were members of only five PTAs before
+2000, but they have joined 49 more, largely to promote their exports. North–
+South PTAs also enable MNCs to export products and components duty- free
+among the members, and to use LDCs with cheaper labor costs as export
+platforms to DC markets. For example, an electronics firm can lower produc-
+tion costs by locating assembly operations in low-w age LDCs, chip production
+in higher- income countries such as Singapore, and high- end R&D operations
+in California. In sum, there are many reasons why PTAs can provide benefits
+to governments and firms beyond those provided by the WTO.30
+The United States, as the postwar global hegemon, opposed preferen-
+tial agreements that would interfere with an open multilateral trade regime.
+However, Britain wanted to preserve its discriminatory imperial preferences, and
+a number of states wanted to establish PTAs. The U.S. views largely prevailed,
+and GATT Article 1 calls for unconditional MFN treatment. However, GATT
+Article 24 permits countries to form FTAs and CUs that do not adhere to MFN
+treatment, as long as these agreements meet specific conditions.31 Article 24’s
+acceptance of CUs and FTAs stems from the liberal view that open PTAs offer
+a second- best route to freer trade; thus, Article 24 seeks to ensure that the
+PTAs are more trade- creating than trade-diverting. Before discussing Article
+24, it is necessary to describe the ways in which PTAs are trade-c reating and
+trade-diverting.
+Trade Diversion
+PTAs can be trade-diverting because the elimination of intra- PTA trade
+barriers shifts some imports from more efficient outside suppliers to less effi-
+cient PTA suppliers. Furthermore, the freeing of trade within a PTA increases
+competition in member countries’ markets. Inefficient industries may lobby for
+increased external trade barriers to shift the adjustment burden onto countries
+outside the PTA. Thus, trade diversion can result when PTAs raise protec-
+tionist barriers against outsiders. Investment diversion may also occur when
+MNCs put branch plants inside a PTA to take advantage of the tariff- free zone
+
+9 PREFERENTIAL TRADE AGREEMENTS 273
+instead of producing in the least-cost location and shipping goods to the PTA
+countries. A CU is more trade-diverting in some respects than an FTA. Even
+if external tariffs do not increase when a CU is formed, protectionism may
+increase if the CU imposes antidumping and countervailing duties in response
+to pressure from import-c ompeting industries. These duties limit imports to
+the entire CU area because of the common external tariff. Antidumping and
+countervailing duties pose less of a problem for outsiders in an FTA because
+each FTA member levies its own tariffs, and industries cannot pressure for
+area- wide protection. However, FTAs are more trade-diverting than CUs
+in terms of rules of origin, because each FTA member has its own external
+tariffs. FTAs require rules of origin to prevent importers from bringing goods
+in through the lowest duty member and then shipping them duty- free to other
+FTA members. The rules of origin determine whether products have under-
+gone enough processing within the FTA to qualify for the trade preferences. It
+is difficult to formulate these rules because many goods are manufactured with
+components from a number of countries. Domestic firms often pressure FTAs
+for stiffer rules of origin which are more protectionist against outsiders. Rules
+of origin are a less significant issue for CUs because of the common external
+tariff.32 Trade diversion depends on external as well as internal factors. When
+a PTA is formed, non-m ember states have an incentive to establish their own
+PTAs to “better defend themselves against the discriminatory effects of other
+… [PTA] groups.”33 Furthermore, regional trade blocs such as the EU become
+larger when pressure from non-m ember firms triggers “membership requests
+from countries that were previously happy to be non- members.”34 This prolif-
+eration of PTAs fragments the global trade regime.
+Trade Creation
+The main source of trade creation is the increased trade among PTA members,
+which shifts demand from less efficient domestic suppliers to more efficient
+PTA suppliers. When firms become more competitive as a result of the PTA,
+they are also more likely to support global as well as preferential free trade.
+Furthermore, PTAs often achieve a deeper level of integration than multilat-
+eral trade agreements because negotiations occur among a smaller number of
+like- minded partners. PTAs may therefore have a positive demonstration effect
+on multilateral trade negotiations. For example, the inclusion of agriculture,
+services, and intellectual property in the NAFTA provided a stimulus for nego-
+tiating these issues in the GATT Uruguay Round.
+GATT Article 24 and PTAs
+GATT Article 24 seeks to ensure that PTAs result in more trade creation than
+trade diversion. To increase trade creation, Article 24 stipulates that FTAs and
+CUs are to eliminate tariffs on “substantially all” trade among the members
+within a “reasonable” time period. (GATT granted waivers from the substan-
+tially all trade requirement for the ECSC in 1952 and the Canada– U.S. Auto
+
+274 III THE ISSUE AREAS
+Pact in 1965.) This requirement limits preferential agreements with only par-
+tial trade liberalization such as those that contributed to protectionism during
+the 1930s. PTAs that remove all internal trade barriers are more likely to
+serve as stepping stones to multilateral free trade. To decrease trade diversion,
+Article 24 stipulates that a PTA should not raise tariffs on the average to coun-
+tries outside the agreement. Whereas individual members of an FTA are not to
+raise their average level of duties, the common external tariff of a CU may not
+“on the whole” be higher than the member states’ duties before the CU was
+established. These provisions are designed to limit reductions in imports from
+non-m embers as a result of the PTA.35 However, GATT Article 24 has been
+more effective in theory than in practice.
+The Effectiveness of GATT Article 24
+When countries formed a PTA, GATT established a working party to deter-
+mine whether it met the Article 24 conditions; but these working parties had
+only limited influence. GATT’s regulations for PTAs were drafted with smaller
+agreements in mind, such as the Benelux customs union negotiated by Belgium,
+the Netherlands, and Luxembourg in 1944. In 1957 the EC members were
+unwilling to wait for GATT approval before proceeding with economic inte-
+gration because of the size and importance of the EC. Negotiating the Treaty
+of Rome had been a difficult process, and EC members would not readjust
+the treaty to satisfy GATT.36 In the end, GATT acceded to the EC demands
+and never finished examining the Treaty of Rome, even though it had reached
+no consensus on the treaty’s consistency with Article 24. GATT’s acquies-
+cence in this case limited its authority over subsequent PTAs, and its working
+parties could do little to change PTAs after member states had negotiated them.
+Whereas GATT was notified about early agreements such as the EC before they
+entered into force, some later agreements such as NAFTA entered into force
+before a working party was even formed to examine them.37
+It is not surprising that GATT had little influence over PTAs after they were
+negotiated. Governments had already engaged in extensive bargaining and
+were reluctant to reopen negotiations in response to outside criticism. GATT
+working parties could only try to embarrass PTA members with allegations
+of noncompliance and encourage them to comply with the guidelines in the
+future. However, GATT did influence decision-m aking at earlier stages by
+setting broad parameters for conducting the PTA negotiations. For example,
+the diplomats negotiating PTAs often operated
+under instructions to make maximum efforts to comply with GATT
+rules, and the actual results of these negotiations testify that a quite
+important degree of GATT compliance was achieved. Except for
+agriculture … and except for the EC’s relationship with former col-
+onies, the … developed-c ountry agreements … were essentially GATT-
+conforming. To be sure, GATT was unable to do anything further once
+the agreements were signed and deposited in Geneva.38
+
+9 PREFERENTIAL TRADE AGREEMENTS 275
+Some analysts note that GATT was less effective because Article 24
+requirements that PTAs should cover “substantially all” trade, not be more
+restrictive “on average” to outsiders, and be implemented in a “reasonable length
+of time” are ambiguous. In view of the imprecise wording, working parties were
+reluctant to give PTAs unqualified approval. By 1994, only six of 69 working
+parties had reached a consensus that particular PTAs conformed to Article 24,
+and only two of these six PTAs are still operative. In most cases, working parties
+simply noted that members had divergent views regarding the PTA’s conformity
+with GATT. However, GATT never explicitly concluded that a PTA did not meet
+the legal requirements!39 To improve the regulation of PTAs, the GATT Uruguay
+Round agreement included an Understanding on the Interpretation of Article 24
+and a GATS article on regional trade in services (Article 5). Recall that the GATS
+is an agreement for trade in services established under the WTO. The GATS,
+and the TRIPS for intellectual property rights, were created to supplement the
+GATT for trade in goods, or General Agreement on Tariffs and Trade, to extend
+it to services. Furthermore, the WTO replaced the working parties with a single
+Committee on Regional Trade Agreements (CRTA) to determine whether PTAs
+conform with the WTO. (As discussed, the WTO uses the term regional trade
+agreements for transregional as well as regional agreements.)40 Although the
+Uruguay Round and CRTA have dealt with some GATT Article 24 shortcomings,
+many problems remain. For example, divisions persist on the interpretation of
+the “substantially all trade” requirement (many PTAs exclude agriculture), and
+the Uruguay Round negotiators did not decide how to deal with restrictive rules
+of origin in FTAs. In 2006 a negotiating group agreed on a mechanism to ensure
+that the WTO receives early notification of new PTAs; but this mechanism may
+not become permanent because of the breakdown of the Doha Round.
+Special Treatment for LDCs
+Although GATT Article 24 was to apply to all PTAs, LDCs receive special
+treatment. This is evident from the GATT/W TO’s treatment of PTAs among
+LDCs and from its response to the EU association agreements with LDCs.
+PTAs among LDCs The GATT/ WTO takes a more lenient approach to
+PTAs among LDCs. For example, GATT accepted the formation of the Latin
+American Free Trade Association in 1960, even though it “did not even
+approach the requirements of total integration.”41 After Part IV on trade and
+development was added to GATT in 1965, LDCs sometimes invoked it to
+justify forming PTAs that did not meet Article 24’s requirement to include
+substantially all trade. When the 1979 enabling clause was enacted, it became
+the main legal basis for LDCs forming questionable PTAs. The enabling clause
+permits LDCs to form PTAs that include a limited range of products and
+decrease rather than eliminate tariffs. PTAs are eligible for special treatment
+under the enabling clause if they do not include any DC members. For example,
+Mercosur (discussed later) was notified to GATT under the enabling clause,
+
+276 III THE ISSUE AREAS
+not Article 24.42 Despite the GATT/W TO’s permissiveness, recent LDC moves
+toward freer trade have inevitably affected their PTAs. The negative experience
+of LDCs with protectionist import substitution policies, and IMF and World
+Bank pressure on LDC debtors to liberalize their trade policies, have caused
+PTAs among LDCs to become more outward-l ooking.
+EU Association Agreements with LDCs As discussed in Chapter 8, DCs
+unilaterally established a generalized system of preferences (GSP) for LDCs. EU
+association agreements with LDCs by contrast are jointly negotiated preferential
+agreements. When the EC was formed in 1957, the Treaty of Rome provided
+associate status to France’s African Overseas Territories.43 The EC’s enlargement
+when the UK, Denmark, and Ireland joined in 1973 (see Table 9.1) necessitated
+a change because of Britain’s relationship with Commonwealth LDCs. In 1975,
+the nine EC members concluded the first Lomé Convention (Lomé I) with 46
+African, Caribbean, and Pacific (ACP) countries; three more Lomé Conventions
+followed in 1979, 1984, and 1989 (eventually with 71 ACP states). The Lomé
+Conventions offered preferential access for ACP goods to the EC market without
+requiring reciprocity. Critics argued that the Lomé system was not a genuine FTA
+because it was nonreciprocal; GATT Article 24 provides an exception to MFN
+treatment only for PTAs that follow the reciprocity principle. Furthermore, the
+1979 enabling clause permits DCs to provide trade preferences only if they are
+offered to all LDCs. The enabling clause does not sanction EU discrimination in
+favor of its ex-c olonies at the expense of other LDCs.
+The EU argued that the nonreciprocal association agreements were justified
+because they contributed to LDC economic development; but external events
+increased the pressures for change. In 1994 Mexico formed the NAFTA with the
+United States and Canada, showing that LDCs could join in reciprocal FTAs with
+DCs.44 Analysts also began to question the value of the Lomé Conventions to the
+ACP states, because their share of the EU market fell from 6.7 percent in 1976
+to 3 percent in 1998; more than 60 percent of the ACP exports were composed
+of only 10 primary products. Marxists described EU nonreciprocal preferences
+“as a form of neocolonialism that perpetuates the production of … products
+not compatible” with the long-t erm interests of the ACP states.45 Thus, the EU
+and ACP states negotiated the more WTO-c ompatible Cotonou Agreement (or
+New Partnership Agreement) in 2000. This agreement stipulates that, beginning
+in 2008, ACP–E U reciprocal “economic partnership” agreements will gradually
+replace the nonreciprocal preferences over a 10- to 12-y ear period. Although
+supporters of the Cotonou Agreement believe that the ACP states will benefit
+by liberalizing their trade policies, critics argue that EU–A CP nonreciprocal
+relations must continue because the ACPs have a lower level of development.46
+The following sections focus on the EU, NAFTA, Mercosur, and two
+attempts to form large transregional PTAs in view of the protracted Doha Round
+negotiations: the Trans-P acific Partnership and the Trans-A tlantic Trade and
+
+9 PREFERENTIAL TRADE AGREEMENTS 277
+Investment Partnership. Thus, the term “EC” is used when discussing events
+from 1957 to 1992, and “EU” is used for events from 1993 to the present.
+THE EUROPEAN UNION
+Europe has led the way in postwar regional integration, with European states as
+parties to 76 of the 109 PTAs formed from 1948 to 1994.47 In 1951, six states
+(Belgium, France, West Germany, Italy, Luxembourg, and the Netherlands)
+formed the ECSC and then established the EC and the European Atomic Energy
+Community (Euratom) in 1957 (see Table 9.2). In 1959, seven states (Austria,
+Britain, Denmark, Norway, Portugal, Sweden, and Switzerland) formed the
+EFTA instead of joining the EC, because the EC’s customs union threatened
+Britain’s Commonwealth preference system and the nonaligned policies of
+states such as Sweden and Switzerland. In 1993 the EC’s name was changed to
+the EU to symbolize the extension of the community from trade and economic
+matters to a much broader range of activities under the Maastricht Treaty.
+As discussed, the EU is an economic union, and 19 of the 28 members have
+discarded their national currencies and adopted the euro (see Table 9.1). The EU’s
+institutional structure differentiates it from PTAs at lower levels of integration.
+The European Commission represents general EU interests rather than those of
+individual member states, and the powers of the European Court of Justice (ECJ)
+are greater than those of other international courts. The EU is therefore a “supra-
+national” organization that operates above the level of the nation-s tate in some
+areas. However, the Council of Ministers (or Council of the European Union) is
+the most powerful EU institution in day-t o-d ay politics. The fact that the Council
+of Ministers is composed of foreign ministers representing their governments
+is a reminder that the EU (despite its supranationality) is still beholden to its
+member states. Other important EU institutions are the European Parliament and
+European Council (of Heads of State and Government). In sum, the EU’s unique
+institutional structure gives it more authority than other IOs, but the EU remains
+subject to a considerable amount of control by its member states.48
+The Deepening of European Integration
+European integration has been an uneven process, sometimes marked by
+obstacles and conflict, and other times by optimism and growth. For example,
+the EC began its operations with considerable enthusiasm in 1957, but the
+1970s were marked by “Eurosclerosis” (i.e., stagnation) and a loss of faith in the
+EC’s vitality. Divisions within the EC as a result of differential taxation, border
+inspections, domestic subsidies, and limits to market access were a major source
+of the problem. Thus, the EC sought to create a unified European market with
+more competitive firms based on specialization and economies of scale. The 1986
+Single European Act (SEA) was designed to abolish nontariff barriers, liberalize
+trade in services, and facilitate the movement of capital and labor by 1992, and it
+also included a commitment to form an economic and monetary union (EMU).
+
+278 III THE ISSUE AREAS
+TABLE 9.2
+The Deepening of European Integration
+Year Event Description
+1951 European Coal and • 6 states integrate their coal and steel resources
+Steel Community
+(ECSC)
+1957 Treaty of Rome • Establishes the European Economic Community
+(EC) and Euratom
+1986 Single European • To free the movement of goods, services, and labor
+Act (SEA) • Commitment to form a monetary union (EMU)
+1992 Maastricht Treaty • Commitment to form a monetary union, and
+(or Treaty on common foreign, security, and social policies
+European Union) • Renames the EC the European Union (EU)
+1999 Creation of the euro • 11 EU states adopt the euro as a common
+currency. The eurozone members increase to
+19 by 2015
+2009 Lisbon Treaty • Establishes an EU high representative
+• Gives new powers to European Commission,
+Parliament, and Court of Justice
+• Removes national vetoes in some areas
+• Redistributes voting weights among member
+states
+Source: Authors
+Monetary union was to occur in a three-s tage process, and negotiations resulted
+in the Treaty on European Union or Maastricht Treaty in 1992 (see Table 9.2).
+The Maastricht Treaty changed the name of the EC to the EU because the
+economic pillar— the EC— was joined by two new pillars: for a common foreign
+and security policy, and a common social policy. Whereas the EC sometimes uses
+supranational decision- making, intergovernmental decision- making is the norm
+for foreign/ security and social policy. The Maastricht Treaty also outlined a time-
+table for setting up the EMU, criteria for joining the EMU (e.g., a budget deficit of
+less than 3 percent of GDP, and public debt of no more than 60 percent of GDP),
+and functions the EMU would perform (e.g., the role of the European Central
+Bank).49 As discussed in Chapter 6, 11 EU members formed the eurozone in 1999
+and agreed to adopt the euro in place of their national currencies. Eight more EU
+members joined later, and the eurozone now has 19 members. The European sov-
+ereign debt crisis has resulted in serious problems for the eurozone, and for the
+EU in general. A major source of the problem has been the decision to establish
+a monetary union without political or at least fiscal unity among those countries
+adopting the euro. The transfer of tax authority to the EU continues to be limited,
+exemplifying “the failure of political and fiscal integration.”50
+Another aspect of the deepening of European integration relates to cross-
+border migration. The Schengen Agreement calling for the gradual abolition
+of border checks between countries was originally signed in 1985 by France,
+
+9 PREFERENTIAL TRADE AGREEMENTS 279
+Germany, Belgium, the Netherlands, and Luxembourg outside the auspices of
+the EU. The agreement was incorporated into the EU framework as part of the
+1997 Amsterdam Treaty, and today the Schengen Agreement has 26 member
+countries. Twenty-t wo of the Schengen members are EU countries, and four
+members are not in the EU: Iceland, Liechtenstein, Norway, and Switzerland.
+Two EU members—t he United Kingdom and Ireland—o pted out of joining the
+Schengen Agreement. The United Kingdom wanted to control its own borders,
+and Ireland gave priority to its Common Travel Area with the United Kingdom
+over free travel within the Schengen area. The “Arab Spring” uprisings began
+to create problems in the Schengen area when France shut its borders to trains
+carrying African migrants from Italy in April 2011, and the problems increased
+with the large movement of migrants from Syria, Iraq, and elsewhere to Europe
+in 2015. Many of the migrants are refugees seeking to escape areas of serious
+conflict, and major disagreements among EU countries as to how to deal with
+this issue raise questions about the viability of the Schengen Agreement over the
+long term (see Chapter 12). In sum, European integration has deepened over the
+years. However, eurozone problems, the Schengen agreement, and Brexit pose
+major challenges for the future of the integration project.
+The Widening of European Integration
+As Table 9.1 shows, the EU expanded from six to 28 members in several
+enlargements. Whereas the deepening of integration has often been a response
+to economic conditions, the recent widening was “thrust on the EU by the
+failure of communism in Europe.”51 This section focuses on the accession of
+Central and Eastern European countries (CEECs) to the EU.
+When the EC was formed in 1957, the Soviet Union insisted that the
+Council for Mutual Economic Assistance (CMEA) be the vehicle for EC eco-
+nomic contacts with Eastern Europe. However, the EC preferred to negotiate
+bilateral agreements with Eastern European states and some of them broke
+ranks with the Soviet position. For example, the EC granted the GSP to
+Romania in 1972, and signed a trade and cooperation agreement with Romania
+in 1980. As economic conditions in the East worsened, the Soviets softened
+their position on economic linkages with the West; thus, a 1988 EC–C MEA
+agreement sanctioned EC negotiations with individual Eastern European states.
+After the breakup of the Soviet bloc, the EU negotiated a number of “Europe
+agreements” with Eastern European states. However, the EU offered them only
+limited trade concessions, and they began to apply for full EU membership.52
+The wide disparity in economic development between most EU members
+and the CEECs posed an obstacle to their admission. Ten CEECs that signed
+Europe agreements with the EU had only one-f ourth of the purchasing power
+of the EU average, and about 20 percent of their workers had agricultural jobs
+compared with only 6 percent of EU workers.53 Thus, an EU Commission report
+warned that admission of the CEECs would cause migration to Western Europe,
+an eastward movement of firms because of lower labor costs in Eastern Europe,
+and a sharp increase in the population eligible for EU social and economic
+
+280 III THE ISSUE AREAS
+development funds. However, official EU statements described enlargement as
+“a political necessity and a historic opportunity.”54 Both the CEECs and the EU
+saw some advantages from enlargement. The CEECs felt that EU and NATO
+membership would give them security vis-à -v is Russia and that access to EU cap-
+ital, technology, and markets would help close the economic gap with the West.
+EU members believed that stable CEECs would provide a buffer against political
+instability, the CEECs would provide the EU with cheaper workers and invest-
+ment opportunities, and enlargement would enhance the EU’s external influence.
+Ten CEECs were admitted to the EU in May 2004. As Table 9.1 shows, the
+per capita GDP of these 10 countries was only 45.4 percent of the EU average.
+Although these CEECs added 19.6 percent to the EU population, they added
+only 8.9 percent to the EU’s GDP. Table 9.1 shows that the per capita GDP of
+Bulgaria and Romania were only 17.7 percent of the EU average when they
+joined in 2007 and that Croatia’s per capita GDP was only 38.8 percent of the
+EU average when it joined in 2013. Widening need not hinder the deepening
+of integration, and sometimes they occur together. However, the large number
+of states involved in the CEEC enlargements and their lower level of economic
+development contributed to a diversity of interests that was “harder to contain
+within a single framework.”55 Many European leaders believed that the EU
+enlargement necessitated major institutional reforms. To this end, a Convention
+in Brussels produced a draft Constitution for Europe that was signed in October
+2004. This Constitutional Treaty did not receive final approval from voters in
+several states, but a less ambitious Lisbon Treaty did receive final acceptance in
+2009. The provisions of the Lisbon Treaty are designed to facilitate internal and
+external policymaking by the EU with its enlarged membership. As Table 9.2
+shows, the Lisbon Treaty establishes a new high representative position to
+give the EU more influence in international forums; gives new powers to the
+European Commission, Parliament, and Court of Justice; removes national
+vetoes in some areas; and redistributes voting power among the member states.
+Despite the approval of the Lisbon Treaty, many uncertainties remain.
+First, the treaty is complex and difficult to read, and its effects remain to be seen.
+Second, Ireland was the only EU country to hold a referendum on the treaty.
+EU leaders in other states circumvented ambivalent attitudes by arguing that
+there was no need for referenda because Lisbon simply amended earlier treaties.
+Third, both the deepening and widening of EU integration have been deeply
+shaken by “the internal crisis over the euro.”56 As discussed, the EU sovereign
+debt crisis has widened divisions among member states and raised questions
+about the future of the eurozone (see Chapter 7). The economic problems have
+contributed to strong populist fears that the migration of labor from poorer
+to richer EU states is contributing to unemployment problems and adding to
+pressure on social welfare systems. These populist fears were a major factor
+contributing to Brexit. As for external pressures, shortly after Croatia joined the
+EU in 2013, Russia took actions to prevent Armenia and Ukraine from signing
+EU association agreements; and the EU has had difficulty in responding to
+Russia’s strong pressures on Ukraine. Whereas the EU views Russia’s actions as
+aggression, Russia argues that it is defending its own vital interests. It remains to
+be seen whether “Russian pressure in the east” will drive EU members “together
+
+9 PREFERENTIAL TRADE AGREEMENTS 281
+or apart.”57 Adding to the external pressures, the large influx of migrants into
+Europe is putting new strains on the Schengen Agreement.
+BREXIT
+The UK joined the EC in 1973, but its identification with Europe was limited,
+and it supported differentiated integration. For example, the UK did not join
+the Schengen free-t ravel agreement, and did not replace the pound sterling
+with the euro. EU citizens can move freely, and have social and economic
+rights, including the right to work in any member state. Immigration to the
+UK resulting from the EU’s Eastern enlargement and the 2008 financial crisis
+increased Euroscepticism, and under pressure from the UK Independence Party
+(UKIP) and Eurosceptics in his Conservative party British Prime Minister David
+Cameron promised a referendum on withdrawal from the EU if his party won
+the 2015 election. Postfunctionalists point out that Cameron changed UK
+policy to differentiated disintegration; i.e., “the selective reduction of a state’s
+level and scope of integration.”58 Cameron first tried to negotiate reduced UK
+commitments as an EU member (internal differentiated disintegration), but he
+did not achieve some key objectives. In the June 23, 2016 referendum the
+electorate voted by 51.9 percent to leave the EU (i.e., Brexit), so the UK now
+sought external differentiated disintegration; i.e., withdrawal from the EU, and
+participation in some EU policies as a nonmember.59 The Brexit vote shocked
+many, because the UK was known for its outward-o riented foreign policy, tol-
+erant population, and strong institutions. Several factors were central to the
+leave campaign. First, they opposed the jurisdiction of the Court of Justice of
+the EU (CJEU) and the primacy of European law over British law. Second, they
+wanted to limit immigration from other EU countries. At the same time they
+wanted to maintain access to the common market for trade in goods, services,
+and capital. However, the Maastricht Treaty established a common market for
+labor, and other EU members would not let the UK selectively withdraw from
+the labor/ migration market and maintain access in the other three markets.60
+Major geographical differences were evident in the voting patterns. London,
+Scotland, and Northern Ireland voted to remain in the EU by sizable majorities;
+but in England outside London the leave vote was decisive. The voting patterns
+resulted partly from contrasting economic fortunes. UK competitiveness for
+manufactures had fallen sharply, with trade surpluses initially in the postwar
+period followed by regular trade deficits from the early 1980s. Northern England
+was strongly affected by this deindustrialization, with declining manufacturing
+employment. Lower-i ncome, less educated, socially conservative, rural, and
+older people feared that immigration, trade, and technological advances were
+threatening their livelihoods. Older people also had positive memories of when
+the UK was a major power. Many of those voting for Brexit were susceptible to
+populism. They trusted the views of ordinary people over the “corrupt” estab-
+lishment, and wanted to uphold the “native” population’s prerogatives and
+limit immigration from Eastern Europe. The referendum was a means of going
+to the people who “counted,” and they largely ignored the views of minor-
+ities. London by contrast has prospered as a pre-e minent financial center, and
+
+282 III THE ISSUE AREAS
+this was a major factor in its opposition to Brexit. In 2015 over 30 percent of
+London’s financial services exports went to the EU, and the contrasting views
+of people in London and northern England were sharpened by major increases
+in income inequality. Scotland and Northern Ireland also had less prosperity,
+but a majority in these areas opposed Brexit for other reasons. With the UK
+and Ireland in the EU, both are in the customs union and have a common
+labor market. In 1993 regular customs checks between Northern Ireland and
+Ireland were abolished, and this facilitated the signing of the Good Friday peace
+agreement in 1998. Brexit could revive the border controls, and this would
+endanger the peace agreement and renew calls for Irish unification. With only
+5.3 million people and some aspirations to become an independent state,
+Scotland wants to stay in the EU and benefit from access to its large market.61
+After the referendum the main question was whether the UK would seek a
+“soft” Brexit that would keep it in the customs union and perhaps the internal
+market, or a “hard” Brexit involving only free trade. The UK chose not to remain
+in the internal market and it also wanted to withdraw from the customs union
+so it could make its own trade agreements. If the UK left the customs union,
+there would be a hard border between Ireland and Northern Ireland. This was
+unacceptable to Ireland, and the UK had to accept an “Irish backstop” agreement;
+i.e., the UK could not leave the customs union until a solution to the Irish border
+issue was found. The EU and UK reached a withdrawal agreement under Prime
+Minister Theresa May, but the UK Parliament rejected it and she was forced to
+resign. The Parliament also at first rejected the agreement negotiated by Prime
+Minister Boris Johnson. However, Johnson has had Parliament’s support to “get
+Brexit done” since his decisive election victory on December 12, 2019, and the
+UK is now negotiating the terms of its withdrawal from the EU. Negotiating the
+terms of the UK–E U relationship will be a long, difficult process. Brexit could
+have serious drawbacks for the UK because its interdependence with the EU is
+highly asymmetrical. For example, the EU accounts for about 44 percent of UK
+goods and services exports and 53 percent of UK imports. The UK by contrast
+accounts for only 6.5 percent of EU exports and 4.5 percent of EU imports. In
+areas such as commercial services Brexit will undercut the UK’s strong trade
+position. A large share of UK trade with the EU is in intermediate goods, and a
+number of EU managers are planning to remove some of their supply chains from
+the UK. The EU is also the UK’s largest foreign investment partner, accounting
+for 41 percent of UK outward foreign direct investment (FDI) and 43 percent
+of UK inward FDI. Brexit could also threaten UK unity, with support for a
+new independence referendum in Scotland, and increased pressure for a reunified
+Ireland.62 Although EU–U K interdependence is highly asymmetrical, Brexit will
+also hurt the EU. Losing a large, powerful, financially important DC will weaken
+the EU’s momentum and diplomatic influence.63
+Theoretical Perspectives and EU Integration
+Scholars have applied a wide range of theories to European integration. We
+first focus on three well- known theoretical approaches: neofunctionalism,
+
+9 PREFERENTIAL TRADE AGREEMENTS 283
+liberal intergovernmentalism, and constructivism. We then discuss the need to
+supplement these theories with two others: postfunctionalism and plutocracy.
+Neofunctionalism Theorists often ask why European states have pooled
+substantial elements of their sovereignty in the EU. Neofunctionalism describes
+integration in one economic sector as creating pressures for further integration.
+For example, the six ECSC members found that integrating their coal and steel
+resources would have more benefits if they also integrated their transportation
+systems for moving the coal and steel. Thus, regional integration has an expansive
+logic, in which integration in one economic sector creates pressures for spillover into
+related sectors. Spillover can also contribute to the deepening of integration from
+an FTA to a CU, common market, and economic union. Whereas functionalists
+see spillover as an automatic process, neofunctionalists see political activism by
+interest-d riven actors as also necessary. First, integration in one sector engenders
+increased transactions and new organizations representing business, labor, and
+consumer interests at the regional level. These regional interests exert political
+pressure for deeper integration. Second, the supranational bureaucracy (the
+European Commission in the EU) has a vested interest in expanding its authority
+through deepening integration over a wider range of sectors. Thus, Ernst Haas
+describes integration as “the process whereby political actors in several distinct
+national settings are persuaded to shift their loyalties, expectations and political
+activities toward a new center, whose institutions possess or demand jurisdiction
+over the pre-e xisting national states.”64 Neofunctionalism had considerable
+influence on the study of regional integration, but its influence varied over the
+years. The expansion of integration from the ECSC to the EC seemed to support
+neofunctionalism, but problems such as Eurosclerosis in the 1970s raised
+questions about the expansive logic of the theory. Neofunctionalist ideas such as
+“spillover” had somewhat of a revival in the 1990s with the SEA, the Maastricht
+Treaty, and the creation of the EMU, but the newer neofunctionalists viewed it
+as a less ambitious theory that explained only some aspects of the integration
+process. Few scholars call themselves neofunctionalists today because the theory
+has been subject to numerous criticisms. First, the tortuous path of European
+integration demonstrates conflicting pressures for integration and diversity, and
+there is no certainty that spillover will occur. Second, neofunctionalists tended
+to ignore the fact that the average citizen has been more skeptical of European
+integration than the elites. Contrary to what Haas predicted, citizens have not
+shifted their “loyalties, expectations and political activities toward a new center.”
+Third, critics argue that the member states, rather than interest groups and the
+EU institutions, have the main power in the EU. States resist further integration
+when it does not serve their national objectives.65
+Liberal Intergovernmentalism Whereas neofunctionalists focus on societal
+interests and supranational institutions, liberal intergovernmentalists assert that
+
+284 III THE ISSUE AREAS
+member states (central governments) remain free to choose how the EU functions.
+Andrew Moravcsik is the founder of liberal intergovernmentalism, which is
+“liberal” in its view of governments as bringing together domestic interest groups
+within a state, and “intergovernmentalist” in its emphasis on the central role of
+states (which also shows the influence of neomercantilism). Moravcsik argues that
+the EU rests on a series of bargains between member states, which are self-i nterested
+and rational in pursuing outcomes that serve their economic interests. Major policy
+decisions reflect the preferences of national governments rather than supranational
+institutions, and each state’s preferences reflect the balance of its domestic economic
+interests. Conflict may arise among states with different preferences, and the
+status quo changes only when the largest states accept compromise agreements.
+Intergovernmentalists seek to explain how national interests are reconciled in
+intergovernmental bargains, and they see the EU as occupying “a permanent
+position at the heart of the European landscape” only because of decisions by
+member states.66 European integration is reversible, because member states support
+the EU supranational institutions as a means of enforcing intergovernmental
+bargains. Whereas neofunctionalists are criticized for underemphasizing the role
+of governments, liberal intergovernmentalists are criticized for overemphasizing
+their role. Moravcsik focuses on a series of “grand bargains” among governments,
+but devotes less attention to the EU’s day-t o-d ay politics. Because governments
+cannot monitor daily activities, institutions such as the EU Commission have
+considerable discretion in making decisions. Furthermore, neofunctional theorists
+argue that state bargains may have “unintended consequences” in giving more
+discretion than states anticipate to supranational institutions.
+Constructivism Neofunctionalists and liberal intergovernmentalists emphasize the
+role of material factors such as interests in the integration process. Constructivists
+by contrast focus on the role of ideas, norms, and identity. In studying European
+integration, we need to understand not only the EU’s interactions with member
+states and interest groups, but also the effects of national self-i mage, identity, and
+views of the integration process. For example, compliance with EU principles and
+rules often depends less on EU sanctions and rewards than on whether a country
+sees itself as law-a biding. Some EU states are noted for implementing EU laws even
+when there is strong domestic opposition to them. Compliance with EU rules also
+depends on the development of a European identity within societies, and this can
+only occur if there is some compatibility between the EU and the core elements of
+national identity. Furthermore, assessments of the integration process require some
+understanding of the developing European identity. If various European groups do
+not view some states, such as Turkey, as being “European,” they may oppose their
+joining the EU even if they meet the objective criteria for membership. Although
+constructivists correctly alert us to the importance of ideas, norms, and identities,
+critics argue that they have not yet developed shared theoretical principles and
+research strategies for studying the integration process.67
+
+9 PREFERENTIAL TRADE AGREEMENTS 285
+Postfunctionalism Neofunctionalists and liberal intergovernmentalists
+both view preferences as largely economic and emphasize bargaining
+among interest groups. Whereas intergovernmentalists examine the role of
+interest groups at the national level, neofunctionalists focus on groups at the
+supranational as well as national level. Neofunctionalists sometimes refer
+to the concept of spillback, when states withdraw from certain obligations
+to European integration. Nevertheless, neofunctionalists and liberal
+intergovernmentalists generally assume “that the EU cannot or can hardly
+disintegrate.”68 Liesbet Hooghe and Gary Marks by contrast argue that
+we must go beyond assessing the economic preferences of interest groups
+today because European integration has become more politicized and
+affected by mass publics. Whereas neofunctionalists felt that politicization
+would generally result in further integration, postfunctionalists argue
+that politicization is making integration more contentious; for example,
+including Eastern Europeans increased the divergence of interests among
+EU states. The elite must now take more account of public concerns that
+integration is threatening national sovereignty, increasing immigration,
+intensifying economic competition, and redistributing income. Thus,
+European integration has become the focus of contentious elections, party
+competition, and referenda.69 As Brexit, discussed earlier in this chapter,
+shows, postfunctionalists point out that politicization in the UK can lead
+to disintegration. Postfunctionalists also raise the possibility of further
+disintegration in the EU, with divisions among countries exacerbated by
+the European debt crisis (discussed in Chapter 6) and the refugee crisis that
+began in 2015. These crises have contributed to the rise of Euroscepticism
+and populist parties. However, Euroscepticism has been stronger in the UK
+than in other EU countries, so for other countries partial exit from some
+obligations is more likely than a full exit from the EU.70
+Plutocracy Integration theory has been so fixated on the EU that it has not
+focused on other forms of governance. For example, a study by Kathleen
+Hancock focuses on plutocracy, in which “smaller member states delegate
+policymaking to the wealthiest state in the integration accord.”71 The Eurasian
+Customs Union formed by Russia, Belarus, and Kazakhstan in 2007, which
+became the Eurasian Economic Union in 2015 (also including Armenia and
+Kyrgyzstan), has some characteristics of a plutocracy.
+THE NORTH AMERICAN FREE TRADE AGREEMENT
+Regionalism in the Western Hemisphere is more heterogeneous than in Europe.
+Efforts to form a Free Trade Area of the Americas for the entire hemisphere
+failed, and the most important PTAs are NAFTA and Mercosur. As discussed,
+the United States would not participate in comprehensive PTAs from the
+1940s to the early 1970s, and it focused instead on GATT-b ased multilateral
+
+286 III THE ISSUE AREAS
+trade. However, a reversal of U.S. policies combined with greater openness
+to free trade in Canada and Mexico resulted in the Canada– U.S. Free Trade
+Agreement (CUSFTA) in 1988 and the North American Free Trade Agreement
+(NAFTA) in 1994.
+The Formation of NAFTA
+A noted Canadian historian has observed that one economic issue in Canada
+“comes close to rivalling the linguistic and race question for both longevity and
+vehemence, and this is, of course, the question of free trade with the United
+States.”72 In 1854, the two countries concluded a Reciprocity Treaty providing
+for free trade in natural products such as grains, meat, dairy products, and fish.
+However, the United States abrogated the treaty in 1866 because of its negative
+trade balance with Canada, increased Canadian duties on U.S. manufactures,
+and the British role in the U.S. Civil War. Efforts to revive free trade in 1911 and
+1948 were unsuccessful, but the 1965 Canada– U.S. Auto Agreement provided
+for free trade in automobiles and parts (GATT provided a waiver from the
+Article 24 provision that FTAs should cover substantially all trade). In 1988
+the two states established a comprehensive FTA, the CUSFTA; when Mexico,
+the United States, and Canada signed NAFTA in 1992, it superseded CUSFTA.
+The question arises why these FTAs were formed after so many years.
+The United States reversed its policy on PTAs with the 1974 U.S. Trade Act,
+which permitted the president to “initiate negotiations for a trade agreement
+with Canada to establish a free trade area.”73 However, Canadian and
+Mexican requests initiated the negotiations for CUSFTA and NAFTA. Both
+countries had become more dependent on trade with the United States and
+cross- border production with U.S. companies, and they viewed freer trade as a
+means of increasing their competitiveness. When the United States responded
+to its balance- of- payments deficits in the mid- 1980s with increased protec-
+tionism, Canada viewed an FTA as necessary to gain more assured access to
+the U.S. market. Mexico was concerned about Canada’s favored position as a
+U.S. trader in the Canada– U.S. FTA, and as an LDC Mexico viewed an FTA
+as essential for attracting more U.S. foreign investment. The United States as a
+major economic power was more concerned about global trade linkages, and
+it concluded the CUSFTA and NAFTA largely because of frustration with the
+slow pace of the GATT Uruguay Round. Negotiating PTAs, in the U.S. view,
+would induce the EU and Japan to offer concessions in the GATT negotiations.
+PTAs also tend to breed more PTAs, and the EU’s enlargement gave the United
+States another reason to join PTAs. Furthermore, the United States became
+less committed to multilateralism as the sole option as its trade hegemony
+declined. The United States also wanted Canada and Mexico to ease their
+regulations on foreign investment and natural resources, and it was willing
+to open its market to Canadian and Mexican goods in return. Cross- border
+intraindustry trade and gains from economies of scale also induced producers
+in key sectors such as computers, automobiles, electronics, and machinery to
+pressure for a PTA.74
+
+9 PREFERENTIAL TRADE AGREEMENTS 287
+Assessing NAFTA as a Free Trade Agreement
+Unlike the EU, NAFTA has remained a free trade agreement. All three coun-
+tries have been skeptical of EU- type supranational institutions that would
+infringe national sovereignty, and the U.S. Congress has resisted agreements
+that interfere with U.S. trade policy. However, Mexico and Canada as the
+two smaller NAFTA members realized that some integration was necessary to
+protect their interests, even if it impinged on their sovereignty. For example,
+Canada views U.S. antidumping and countervailing duty laws as protectionist,
+and favors either their elimination among NAFTA members or a common
+code to define which subsidies are permissible. However, the United States sees
+the use of ADDs and CVDs as its sovereign prerogative, and NAFTA dispute
+settlement panels can only decide whether a country’s decision to levy a CVD
+is made in accordance with its own law; the panels cannot assess the fairness
+of each country’s laws. When Vicente Fox became Mexico’s president in 2000,
+he proposed that NAFTA extend to the free movement of labor as well as
+goods and services, and that a development fund be established to upgrade
+North American infrastructure. However, the United States and Canada did
+not support these proposals, and the NAFTA approach depends on the market
+to facilitate integration and decrease inequalities.75 Although NAFTA includes
+some innovative features in services, agricultural trade, investment, and dispute
+settlement, it remains an FTA with a minimal degree of institutionalization.
+How successful has NAFTA been as an FTA? NAFTA was contentious from
+the time it was formed, with supporters overestimating its possible benefits, and
+opponents overestimating its drawbacks. Thus, authors of a 2014 assessment
+write that “in truth the claims on both sides of the NAFTA issue 20 years ago
+were overblown.”76 The contentiousness over NAFTA continued, and it was
+invoked by both sides in the debate over whether the United States should par-
+ticipate in a much larger Trans-Pacific Partnership (TPP) agreement (the TPP
+is discussed later). The controversy over NAFTA in all three member countries
+is reflected in divisions among and within the GPE theoretical perspectives.
+Liberalism Liberal economists often see NAFTA as an open FTA that serves as
+a stepping stone to multilateral free trade. NAFTA had a positive demonstration
+effect on the WTO in services trade, investment, and intellectual property rights,
+and it goes beyond the WTO in these areas. For example, NAFTA follows a
+“negative list” approach to national treatment for trade in services, which puts
+the onus on each member to list the services it wants to exclude from national
+treatment; all services a country does not list are automatically included. The
+General Agreement on Trade in Services (GATS), by contrast, takes a “positive
+list” approach; that is, national treatment applies only to sectors included in
+a member’s list of commitments. Although liberals acknowledge that NAFTA
+has produced both winners and losers, they believe that the rewards greatly
+exceed the costs, and they place particular emphasis on private enterprise.77
+For example, the U.S. Department of Commerce finds “overwhelming evidence
+across the United States that NAFTA-r elated trade and investment liberalization
+
+288 III THE ISSUE AREAS
+has allowed U.S. firms to maximize efficiencies, remain globally competitive,
+and increase sales and exports as a result.”78 Liberals also point to the positive
+effects of NAFTA on foreign investment, noting that “in 1993, Mexico’s inward
+stock of FDI was just $52 billion, about 7 percent of GDP. By 2012, the stock
+reached $315 billion, some 27 percent of GDP.”79 Overall, liberals laud NAFTA
+for increasing interdependence among the three countries.
+Despite this generally positive assessment, liberals also point to NAFTA
+problems. For example, liberals criticize restrictions that continue to limit
+trade and investment. One study notes that “while CUSFTA and NAFTA both
+contained services chapters … regulatory barriers to cross-b order trade in ser-
+vices were not much reduced.”80 Liberals also consider rules of origin to be a
+protectionist device in FTAs and they note that NAFTA has highly restrictive
+rules of origin for automobiles, textiles and apparel, and color televisions.
+Recognizing that interdependence requires more policy coordination, many
+liberals favor a deepening of integration; for example, some liberals propose
+that NAFTA should become a customs union.81 Differences, of course, exist
+among liberals. Orthodox liberals often praise NAFTA for its market orien-
+tation and for being the first North–S outh FTA that does not give special
+treatment to LDC members (Mexico). Interventionist liberals by contrast argue
+that some measures should be taken to deal with the wide disparity between
+incomes, wages, and standards in NAFTA; and institutional liberals call for
+more institutions to address NAFTA’s internal and external shortcomings.
+Orthodox liberals also view NAFTA’s environmental and labor side agreements
+as nontrade issues that can be used to impose protectionist trade barriers,
+whereas interventionist liberals see these agreements as necessary to correct
+market imperfections. Finally, some liberals such as Jagdish Bhagwati are more
+critical of the proliferation of PTAs than others. Despite these differences, most
+liberals generally favor NAFTA as an open PTA. For example, one liberal study
+concludes that “NAFTA remains vital to maintaining trade and investment in
+the three countries and helps anchor the economic health of the North American
+marketplace.”82
+Neomercantilism Neomercantilists emphasize NAFTA’s asymmetries in power
+and levels of economic development. They reject the liberal view that smaller
+states often benefit from FTAs more than larger states because of increased
+exports and economies of scale. As the larger partner, the United States expects
+its benefits from free trade to outweigh those of the smaller partners. For
+example, Canada sought free trade with the United States to gain more assured
+access to the U.S. market; but the United States expected side payments in
+return such as less regulation of U.S. foreign investment, greater U.S. access
+to Canadian energy, and a services trade agreement. The United States also
+expected Mexico to grant access to its market for U.S. agricultural goods
+and to give up claims as an LDC to special treatment. Neomercantilists also
+see NAFTA as a threat to national sovereignty. For example, they are highly
+critical of NAFTA’s Chapter 11, which gives private investors access to binding
+
+9 PREFERENTIAL TRADE AGREEMENTS 289
+international arbitration in disputes over a host government’s investment
+measures. (This contrasts with WTO dispute settlement cases where only states
+are directly involved in dispute settlement.) Chapter 11 has resulted in some high-
+profile investor suits against government efforts to implement environmental
+and health regulations. Whereas liberals view NAFTA’s Chapter 11 as an
+innovative mechanism that permits foreign enterprises to prevent states from
+discriminating against them, neomercantilists see it as “a vehicle for investors to
+harass governments whose policies they dislike.”83 Neomercantilists also argue
+that the benefits of NAFTA are overrated, because PTAs are “no substitute for
+a coherent national development strategy.”84
+Marxists argue that NAFTA is shifting power to the capitalist class and
+against labor groups. For example, NAFTA enables MNCs to avoid labor and
+environmental standards in Canada and the United States by relocating pro-
+duction in Mexico. As capital leaves the United States and Canada, wages and
+employment in these countries decline. Some Marxists use the terms core and
+periphery to designate social position and class rather than geographic loca-
+tion, arguing that NAFTA has relegated many U.S. and Canadian workers to
+peripheral status. For example, one study concludes that Mexico’s emergence
+as a clothing exporter “to the United States as a result of NAFTA has been
+accompanied by dramatic growth of garment maquiladora employment south
+of the border and a dramatic decline in the garment industry north of the border,
+especially among manual, direct production workers.”85 The losses for U.S. and
+Canadian workers, according to Marxists, do not result in comparable gains
+for Mexican workers. For example, NAFTA is destroying the livelihoods of
+Mexican peasants because U.S. corn, which benefits from government subsidies,
+is being freely exported to Mexico. Marxists therefore argue that NAFTA is
+increasing poverty and inequality between the rich and poor in all three states.
+A 2014 study concludes that NAFTA has “contributed to mass job losses,
+soaring income inequality, agricultural instability, corporate attacks on domestic
+health and environmental safeguards, and mass displacement and volatility in
+Mexico.”86 Some Gramscian theorists assert that a coalition of labor, environ-
+mental, consumer, and women’s groups should form a counterhegemonic bloc
+against the domination of corporate capital in NAFTA. This bloc would replace
+the corporate view of liberalization in North America with a more democratic,
+participatory model.87
+Environmentalism NAFTA was the first significant trade agreement to include
+an environmental side agreement and establish institutions for monitoring and
+finance. During the NAFTA negotiations, there were serious disagreements over
+the environmental provisions. The greens such as Greenpeace, Public Citizen,
+and the Sierra Club argued that the NAFTA provisions favored corporate
+interests and trade liberalization over environmental concerns. For example,
+they charged that NAFTA’s Chapter 11 opened a new legal channel for private
+investors to contest a state’s environmental policies, and they dismissed the
+environmental side agreement as ineffective and unenforceable. In contrast, some
+
+290 III THE ISSUE AREAS
+business groups argued that the environmental side agreement would interfere
+with free trade and result in costly new regulations. Liberal environmental
+groups such as the World Wildlife Fund, Environmental Defense, and the
+National Resources Defense Council took a position between these extremes.
+Although they wanted the side agreement to put more emphasis on the upward
+harmonization of environmental standards, they favored trade liberalization and
+generally supported the efforts to include environmental provisions in NAFTA.
+The NAFTA environmental provisions in fact have been mixed and in need
+of improvement. One study concludes that “Mexico’s environmental laws have
+improved since NAFTA came into force,” but that “Canada’s post-N AFTA record
+has been less impressive.”88 Another study by contrast argues that Mexico’s
+governments have lacked commitment to environmental protection in the post-
+NAFTA era, and spending and inspection levels have declined. Whereas many
+greens see NAFTA as beyond repair, interventionist liberals believe that the NAFTA
+environmental provisions can be upgraded by adopting stronger provisions. For
+example, some interventionists argue that the environmental provisions should be
+subjected to the same enforcement and dispute resolution provisions as the com-
+mercial parts of NAFTA.89 In the view of two noted liberals,
+it makes more sense to tackle the shortcomings than to lament the
+existence of an FTA, as many environmentalists do, or to overlook
+the problems, as a very few diehard free trade advocates might. With
+the necessary tuning, NAFTA can become a trade agreement that both
+environmentalists and free traders appreciate.90
+In sum, NAFTA has been highly contentious in all three member states.
+A major problem is that NAFTA supporters and opponents have focused on
+different aspects of the agreement. Whereas supporters have lauded NAFTA
+“for enhancing economic linkages between countries, creating more efficient
+production processes [and] increasing the availability of lower- priced con-
+sumer goods,” opponents have blamed NAFTA “for disappointing employ-
+ment trends, a decline in U.S. wages, and for not having done enough to
+improve labor standards and environmental conditions.”91
+The Renegotiation of NAFTA: The United States– Mexico– Canada
+(USMCA) Agreement
+The election of Donald Trump in 2016 signaled a wave of anti-g lobalization
+sentiment. During the campaign, Trump has singled out trade agreements and
+practices, particularly those of China, as creating a “bad deal” for American
+workers, especially those in manufacturing, where thousands of jobs have been
+lost over the past two decades. Trump attributed continued trade deficits to
+unfair trade practices. Once in office, Trump pulled out of the Trans Pacific
+Partnership and began to use tariffs and renegotiations to attempt to change the
+terms of trade and “bring jobs back” to the U.S. In 2017, he placed tariffs on
+solar panels, washing machines, steel and aluminum, affecting multiple trade
+
+9 PREFERENTIAL TRADE AGREEMENTS 291
+partners. His administration also banned American firms from using Huawei
+technology or selling to them, citing security and intellectual property concerns.
+Trump’s use of tariffs is unprecedented in modern times, and his citation of
+national security concerns around certain imports, of steel from Canada, for
+example, are abuses of safeguard provisions established under the GATT/W TO.
+As discussed in Chapter 1, the NAFTA was renegotiated in 2019. The
+Trump administration’s new trade agreement with Mexico and Canada, the
+United States–M exico– Canada Agreement (USMCA), met with the approval
+by the Democratic-c ontrolled U.S. House of Representatives in early 2020, after
+a few amendments, including setting benchmarks for Mexican labor enforce-
+ment. The administration’s trade deal had provisions that Democrats had long
+supported, such as measures to strengthen Mexican labor unions, downgrade
+NAFTA’s Chapter 11 which gives private investors access to binding inter-
+national arbitration in disputes over government investment measures, and
+encourage auto companies to make more of a car’s parts in North America. In
+the new agreement, at least 70 percent of an automakers steel and aluminum
+must be bought in North America, and 40– 45 percent of an auto’s content
+must be made by workers that earn an average wage of at least $16 an hour.
+Automakers will therefore have to either raise wages in Mexico or hire more
+workers in the United States and Canada. The agreement also gives U.S. dairy
+producers greater access to the Canadian market. In other areas, particularly
+dispute settlement and cultural industries, Canadian negotiators were able to
+hold the line on concessions. Preliminary estimates of the impact of the new
+deal were modest,92 with the U.S. International Trade Commission93 estimating
+that it would increase gross domestic product by 0.35 percent after inflation,
+or $68.2 billion, and create 175,700 jobs.
+Despite the Democrats’ support for various aspects of the agreement, they
+viewed some provisions as not going far enough, and they opposed others.
+They argued that the labor and environmental provisions were too weak and
+lacked adequate enforcement mechanisms. They also opposed a provision
+to increase intellectual property protection to 10 years for some advanced
+drugs, because it would raise drug prices. After months of negotiations, key
+Democrats and Republicans agreed to strengthen the labor, environmental, and
+enforcement provisions, and to downgrade the intellectual property protection
+for some advanced drugs. As a result, the U.S. Congress gave final approval
+to the revised USMCA in January 2020. Nine Democrats voted against the
+agreement, mainly because it lacked provisions to deal with climate change.94
+MERCOSUR
+PTAs in Latin America during the 1960s– 1970s were inward- looking, but there
+was a revival of Latin American regionalism in the mid-1 980s on a more open
+basis. The largest of these newer PTAs is Mercosur (Mercosul in Portuguese),
+or the Common Market of the Southern Cone. In 1991 Argentina, Brazil,
+Paraguay, and Uruguay signed the Treaty of Asuncio﻿́n (TOA) to establish
+Mercosur, and Venezuela joined as a full member in 2012, but was suspended
+
+292 III THE ISSUE AREAS
+in 2016 for alleged violations of Mercosur’s democratic principles. The TOA
+timetable included the formation of an FTA from 1991 to 1994, a CU in 1995,
+and eventually a common market; this schedule was unusual for Latin America,
+where most integration plans included only vague promises. Mercosur’s signifi-
+cance also stemmed from the importance of its two largest members, Brazil and
+Argentina. Many observers were skeptical about Mercosur because of Latin
+America’s history of inward- looking development policies and the long-t erm
+enmity between Brazil and Argentina. However, most Latin American LDCs
+were active participants in the GATT Uruguay Round, and the Argentine and
+Brazilian presidents supported integration because of their neoliberal economic
+strategies and their belief that integration would strengthen their position vis-
+à- vis the United States and the EU.95
+The integration process was quite dynamic from 1991 to 1995 as tariffs
+were gradually eliminated and some business firms began to organize their
+production and sales on a regional basis. However, Brazil and Argentina
+introduced new tariffs and NTBs after 1995, and intra-M ercosur exports as
+a share of total exports declined. During the 1990s regional trade had risen
+from 10 to 25 percent of total trade, but from 1999 to 2003 it fell back to
+about 10 percent. From 1999 to 2002 the devaluation of the Brazilian cur-
+rency and the subsequent crisis in Argentina put Mercosur in serious jeopardy.
+Beginning in 2003, the member states have taken steps to revive Mercosur with
+political and social as well as economic agreements. For example, a Mercosur
+Parliament (which only makes political recommendations) was formed in 2005.
+However, political and economic problems remain; one example was the sus-
+pension of Paraguay from Mercosur in June 2012. Although most merchandise
+trade within Mercosur is now duty-f ree, rules do not extend to services trade,
+government purchases, and many NTBs and administrative barriers. Mercosur
+has also not yet established a CU with a common external tariff. To maintain a
+CET, no member state can negotiate bilaterally with outside states.96
+International, regional, and national factors account for Mercosur’s
+problems. First, Mercosur members as LDCs are highly vulnerable to inter-
+national developments. For example, the Mexican and East Asian financial
+crises in the 1990s contributed to the loss of markets for Latin American
+exports and a marked decrease in the prices of primary commodities. Second,
+in 2005 intra-M ercosur trade accounted for only 13 percent of the members’
+total trade. Only about 10 percent of Brazil’s trade was with other Mercosur
+members in 2012. The dependence on trade with external actors such as the
+United States and the EU limits Mercosur’s importance. Third, there is a high
+level of asymmetry, with Brazil accounting for about 70 percent of Mercosur’s
+GDP. To ensure that Mercosur does not infringe its sovereignty, Brazil has
+opposed a strong dispute- settlement body.97 Fourth, Mercosur has done little
+to harmonize the members’ macroeconomic policies. In 1991 Argentina pegged
+its peso to the U.S. dollar, whereas Brazil adjusted its exchange rate. After Brazil
+devalued its currency in 1999, Argentina’s trade balance with Brazil sharply
+deteriorated and many companies moved from Argentina to Brazil. By 2001,
+Argentina had a massive foreign debt and defaulted on its loans partly because
+
+9 PREFERENTIAL TRADE AGREEMENTS 293
+its peso was pegged to the U.S. dollar. This provided the setting for the 1999–
+2002 crisis in Mercosur, which ultimately resulted in an Argentinian devalu-
+ation.98 As Mercosur economies recovered amid higher commodity prices,
+driven primarily by Chinese demand, there appeared to be a new window for
+cooperation in the bloc. A “pink tide” of center- left governments including Evo
+Morales in Bolivia, Lula in Brazil, Kirchner in Argentina, and Bachelet in Chile
+seemed to open the way for expansion towards left socialist governments such
+as that of Chávez in Venezuela and Correa in Ecuador. However, disputes over
+Chávez’s handling of political opposition derailed the project, and Venezuela
+was suspended. Following the global financial crisis in 2008, commodity prices
+have fallen off, and with them the fortunes of the Mercosur economies. The
+pink tide was reversed and continuing politico- economic crisis in Argentina
+has been matched by parallel crises in the other Mercosur states (other than
+Uruguay), preventing further advances in the bloc.
+The one shining achievement has been the agreement to an EU-M ercosur
+trade deal in 2019. The agreement reflects the different trade and investment
+profiles of the Mercosur countries from those in North America, such as
+Mexico, who are largely dependent on the U.S. The South American countries,
+by contrast, have always had a more balanced mix of trade and investment
+partners with the U.S. and the EU, and more recently with China. The failure
+of the FTAA (Free Trade Agreement of the Americas) pushed Mercosur to start
+negotiating an alternative agreement with the EU as far back as 1999. The deal
+centers on the removal of some tariffs for South American agriculture in return
+for greater opening for EU manufactures and specialized food products, intel-
+lectual property rights, and an opening- up of government procurement. The
+agreement has not yet been ratified but is being met with opposition by indi-
+genous rights groups and environmentalists who fear further Amazon destruc-
+tion and by European farmers who fear greater competition. There are further
+concerns about how to ensure health and phytosanitary regulations meeting
+EU standards are met in Mercosur production.99
+Neomercantilists see Mercosur as contributing to security as well as eco-
+nomic ties; Argentina and Brazil have upgraded their military cooperation,
+with joint military exercises and annual meetings between their joint chiefs
+of staff. Neomercantilists also argue that Mercosur strengthens its members’
+bargaining power vis- à- vis the United States and the EU. Liberals favor
+widening the scope of Mercosur’s trade liberalization and predict that domestic
+business groups will continue to see Mercosur as a means of attracting for-
+eign investment. Marxists argue that Mercosur resulted from IMF pressure on
+Latin Americans to liberalize their policies and that Mercosur incorporates its
+members “within the world capitalist system while preserving their subordinate
+status in the system.”100 Constructivists have asked whether efforts to extend
+Mercosur to social and political areas since 2003 have helped in establishing
+a feeling of collective identity. It remains to be seen how the balance between
+the forces of regionalism and nationalism affects the future of Mercosur as a
+PTA. In the end, Mercosur has to be judged in light of the regional context.
+The member countries have much to gain from trade and shared investment,
+
+294 III THE ISSUE AREAS
+including the potential to negotiate better collective deals with other regions
+such as the EU. However, internal problems in Brazil and Argentina, the two
+giants of the region, have prevented regional institutions such as the Parlasur
+(the regional parliament), modeled after the EU, from having anything but
+formal trappings.101
+THE TRANS- PACIFIC PARTNERSHIP AND ITS
+SUCCESSOR AGREEMENT
+Difficulties with completing the WTO Doha Round, and with the “spaghetti
+bowl” of smaller bilateral FTAs that often have conflicting provisions, have
+sparked an effort to negotiate several much larger transregional and regional
+PTAs. In 2008, President George W. Bush indicated that the United States would
+begin trade talks with a small group of Pacific Rim countries that had signed a
+trade agreement, and the group gradually increased to 12 countries. President
+Barack Obama continued the talks, and the Trans- Pacific Partnership (TPP)
+was signed in 2012 by the 12 countries which accounted for about 40 percent
+of world GDP: Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico,
+New Zealand, Peru, Singapore, the United States, and Vietnam. The TPP was
+designed to promote trade liberalization well beyond what was achieved in the
+WTO, and would involve difficult reforms for the member countries’ econ-
+omies. In geopolitical terms, the Obama administration viewed the TPP as
+important in countering China’s growing influence in Asia. China would not
+consider joining it because of the trade liberalization required. U.S. proponents
+also viewed the TPP as crucial because an alternative agreement was being
+negotiated. China is closely involved with a proposed Regional Comprehensive
+Economic Partnership (RCEP). In 2013, the RCEP idea was announced, which
+would include China, the 10 members of ASEAN, and five other countries in
+the region. The RCEP would be much less ambitious than the TPP in terms
+of depth and scope of liberalization. Since the RCEP is limited to Asia- Pacific
+countries, it would marginalize the United States.
+The TPP proved to be highly controversial during the 2016 Presidential
+campaign, with both Republican and Democratic candidates criticizing
+it. Opponents argued that it would increase the U.S. trade deficit, push
+U.S. manufacturing jobs elsewhere, and not deal with currency manipulation
+by some other traders. When President Trump took office in January 2017,
+one of his first actions was to pull the United States out of the TPP. After some
+delay, the other 11 countries decided to renegotiate the agreement without the
+United States, and in March 2018 they signed a revamped Comprehensive and
+Progressive Agreement for Trans- Pacific Partnership (CPTPP). The CPTPP
+entered into force in December 2018 after the first six countries ratified it.
+This action shows that the other 11 countries in the proposed TPP were
+willing to move ahead without the United States, but the CPTPP is a much
+less significant agreement than the TPP would have been. The RCEP has not
+yet entered into force, but with trade tensions between the Trump administra-
+tion and major trading partners, Asian countries are looking to the RCEP as a
+
+9 PREFERENTIAL TRADE AGREEMENTS 295
+possible outlet for their exports. It has therefore become more likely that the
+RCEP will be approved and ratified. With China and India as members, the
+RCEP would account for almost half of the world’s population, and for about
+30 percent of global GDP. RCEP would provide China with an important new
+pivot to the Asia Pacific.102
+Do PTAs Create or Divert Trade?
+During the postwar period there have been two major waves of PTAs, the first
+in the 1950s and 1960s, and the second since the mid- 1980s. Globalization has
+provided a stimulus to the second wave, which has been more enduring. As we have
+discussed, trade theorists have focused primarily on North– North PTAs, but the
+second wave of EU enlargement, Lomé Conventions, and NAFTA represent North–
+South agreements. A third category is South–South agreements. There has been a
+steady proliferation of agreements in this category beyond Mercosur from ASEAN
+to CAFTA (Central American Free Trade Agreement) to CARICOM (Caribbean
+Community and Common Market), to the more recent wave of intra- African
+agreements such as the SADC (Southern African Development Community), and the
+AfCFTA (Africa Continental Free Trade Area). The South– South agreements are
+designed to expand consumer markets and improve the global competitiveness of
+Southern companies. The effects of each trade agreement and its compatibility with
+multilateral efforts has to be analyzed separately over time, but the general debate
+around PTAs vs. multilateralism is worth considering.
+A contentious issue among economic liberals in the current wave is whether
+PTAs serve as stepping stones or obstacles to global free trade; thus, some major
+debates in GPE are among theorists within the same perspective. Liberals generally
+agree that multilateralism is the best route to trade liberalization and that open
+PTAs are a second- best option because they divert some imports from more
+efficient outside suppliers to less efficient regional suppliers. However, some liberals
+see PTAs today as a serious threat to an open multilateral trade regime, whereas
+others believe that PTAs can coexist beneficially with multilateralism.
+A notable theorist taking the first position is Jagdish Bhagwati, who describes
+PTAs as “termites” that are “eating away at the multilateral trading system.”103
+Bhagwati and others in the first group present several arguments to show that PTAs
+pose a threat to the global trade regime: PTAs are discriminatory and therefore
+incompatible with MFN treatment, a basic trade regime principle; LDCs have a
+special exemption for PTAs under the enabling clause, which allows them to engage
+in discrimination without any discipline; the recent proliferation of bilateral FTAs
+is bringing chaos to the global trade regime, with different rules and tariff rates for
+each FTA; PTAs are creating a “spaghetti- bowl” of different rules and procedures;
+FTA rules of origin are often used as a disguised form of protectionism; many
+bilateral FTAs between rich and poor countries permit “the exercise of virtually
+unconstrained political and economic power by the United States and EU to
+secure concessions”;104 and PTAs divert valuable resources away from multilateral
+negotiations. The second group of liberals agree that PTAs can create problems
+such as trade diversion. However, they see some plurilateral FTAs such as NAFTA
+as more trade- creating than diverting, and they believe that PTAs can coexist
+with global trade liberalization. When NAFTA was formed, Gary Clyde Hufbauer
+
+296 III THE ISSUE AREAS
+and Jeffrey J. Schott predicted (in 1993) that “on balance … the trade created
+by growth in the NAFTA region should more than offset the trade diverted in
+particular sectors.”105 In a 2005 study, Hufbauer and Schott referred to empirical
+studies which “on balance … find that NAFTA tends to promote trade creation
+more than trade diversion.” Although the authors criticize NAFTA for its restrictive
+rules of origin, they rate the agreement as a “success.”106 Liberals in the second
+group also support the large transregional CPTPP, which they view as a possible
+stepping stone to global trade liberalization. Arguments of theorists in the second
+group include the following: FTAs contribute to economies of scale and a division
+of labor based on comparative advantage; trade creation is likely to be greater than
+trade diversion if the FTA members are already major trading partners; PTAs allow
+members to overcome disagreements, which helps reduce the complexity of the WTO
+negotiations; and by promoting deeper integration at the regional and transregional
+levels, PTAs can lead the way for multilateral trade negotiations. For example,
+NAFTA liberalized trade in services and agriculture before the GATT/ WTO.107
+Although liberal theorists often base their findings on empirical studies, “different
+studies come out with different trade effects for the same PTAs. This is due to the
+use of different estimation methods, different databases and time periods to measure
+these trade effects.”108 In the first group, Bhagwati uses historical analysis to show
+that political factors resulted in the exceptions the GATT/W TO provides to PTAs,
+and he views these exceptions as mainly trade-diverting. In the second group, many
+analysts focus on specific PTAs for which they have a strong affinity. For example,
+Hufbauer and Schott want NAFTA to establish a common external tariff, strengthen
+its institutions, and promote closer monetary cooperation. Thus, the diversity of
+findings does not result only from different methodologies; nonmaterial factors such
+as the assumptions and values of the theorists also affect their findings.
+Chapters 8 and 9 have focused on trade, but the relationship between trade
+and investment is extremely close; for example, PTAs affect regional production,
+intraindustry specialization, and the location of firms. A former WTO director-general
+notes that “businesses now trade to invest and invest to trade—t o the point where
+both activities are increasingly part of a single strategy to deliver products across
+borders.”109 The next chapter deals with the issue of MNCs and foreign investment.
+QUESTIONS
+1 What are the differences between an FTA, CU, common market, and economic
+union? Do any PTAs fit completely within one of these models of integration? Why
+do you think it is often difficult for trading partners to increase their level of inte-
+gration? Consider the challenges of each step.
+2 How do neomercantilists, liberals, and Marxists explain the rise and consequences
+of regional integration?
+3 In what ways can PTAs be trade- diverting and trade- creating? Do you think that
+PTAs are stepping stones or obstacles to global trade liberalization, and why do you
+think liberal theorists cannot agree on this issue?
+4 What conditions does GATT Article 24 impose on PTAs? How successful has the
+GATT/ WTO been in regulating PTAs?
+5 In what ways do LDCs receive special treatment as members and associate members
+of PTAs? Does Mexico receive special treatment in NAFTA?
+
+9 PREFERENTIAL TRADE AGREEMENTS 297
+6 In what ways is the EU a unique PTA? What are the neofunctionalist, liberal
+intergovernmentalist, constructivist, and postfunctionalist theoretical approaches
+to economic integration, and why are they applied mainly to Europe? What is plu-
+tocratic theory (or plutocracy), and how does it differ from the major theoretical
+approaches to European integration?
+7 What are the major changes to NAFTA under the new USMCA? What is the
+reasoning behind them and whom do they benefit?
+8 What was the TPP and what were the factors in its demise? Why did the CPTPP
+replace it? Consider applying the two- level game framework discussed in Chapter 4
+in your analysis.
+KEY TERMS
+Association of Southeast European Coal and Steel Organisation for
+Asian Nations Community (ECSC) European Economic
+Brexit European Co-operation
+Canada–U.S. Free Community (EC) (OEEC)
+Trade Agreement European Free Trade plutocracy
+(CUSFTA) Association (EFTA) political union
+common market European Union (EU) postfunctionalism
+Comprehensive and free trade area (FTA) preferential trade
+Progressive Trans- GATT Article 24 agreements (PTAs)
+Pacific Partnership liberal rules of origin
+(CPTPP) intergovernmentalism Schengen Agreement
+Cotonou Agreement Lomé Convention Trans- Pacific
+customs union (CU) Maastricht Treaty Partnership (TPP)
+economic and monetary Mercosur U.S.– Mexico– Canada
+union (EMU) neofunctionalism Trade Agreement
+economic union North American Free (USMCA)
+Eurasian Economic Trade Agreement
+Union (NAFTA)
+NOTES
+1 WTO, World Trade Report— 2011 (Geneva: WTO, 2011), p. 58; Matthias Middell,
+“Transregional Studies: A New Approach to Global Processes,” in Matthias Middell,
+ed., The Routledge Handbook of Transregional Studies (New York: Routledge,
+2019), p. 10.
+2 Pravin Krishna, “Preferential Trade Agreements and the World Trade System,” in
+Robert C. Feenstra and Alan M. Taylor, eds., Globalization in an Age of Crisis
+(Chicago: University of Chicago Press, 2014), p. 135.
+3 Jagdish Bhagwati, Termites in the Trading System: How Preferential Agreements
+Undermine Free Trade (New York: Oxford University Press, 2008), p. 88.
+4 Jo- Ann Crawford and Robert V. Fiorentino, “The Changing Landscape of
+Regional Trade Agreements,” Discussion Paper 8 (Geneva: WTO Secretariat
+Staff, 2005), p. 1.
+5 Gerald K. Helleiner, “Considering U.S.–M exico Free Trade,” in Ricardo Grinspun
+and Maxwell A. Cameron, eds., The Political Economy of North American Free
+Trade (Montreal: McGill- Queen’s University Press, 1993), pp. 50–5 1.
+
