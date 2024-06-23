@@ -4,18 +4,19 @@ import uuid
 from firebase_admin import credentials, firestore
 import os
 import json
+import openai
 
 
 
-# infer credentials from environment variables
+# Initialize Firebase
 firebase_admin.initialize_app()
+db = firestore.client()
 
 # OpenAI API Configuration
 openai.api_key = os.environ.get('OPENAI_API_KEY')
 
 
 app = Flask(__name__)
-db = firestore.client()
 
 def load_extracted_data(file_path):
     """
@@ -69,6 +70,12 @@ def get_content():
             return jsonify({"message": "there is no raw content associated with {tag} in the database"}), 404
 
         fetched_content = doc.get('content')
+
+        # OpenAI API call
+        response = openai.Completion.create(
+            model="gpt-4o",
+            prompt=f""
+        )
 
         return jsonify({"content": fetched_content}), 200
     
