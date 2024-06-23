@@ -3,3 +3,4 @@ firebase_admin
 uuid
 openai
 pdfplumber
+gunicorn

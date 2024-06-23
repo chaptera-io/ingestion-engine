@@ -78,13 +78,15 @@ def store_content():
                 {
                     "role": "user",
                     "content": """You are a friendly, yet highly professional tutor. You are very confident of your answers given your information source. Read the chapter, and give me a combination of 
-                    script for narration and content for the slide. Each slide will have a title and some bullet points. As an experienced tutor, you give detailed bullet points that briefly summarize each 
+                    script for narration and content for the slide. Each slide will have a title and some bullet points. 
+                    Chapter= """ + extracted_text + """.
+                    As an experienced tutor, you give detailed bullet points that briefly summarize each 
                     concept, not just list them as a title. Further, you. are very meticulous, and make lots of bullet points for each main topic, not just a few. The bullet points should look like 'concept name - 
                     few words ultra brief summary'  
-                    Give me only the json output in the following schema:[ { slideTitle: string, bulletPoints: [ { bulletPoint: string, narration: string } ] } ]Chapter= """ + extracted_text
-                }
+                    Make sure to give me only the json output in the following schema:[ { slideTitle: string, bulletPoints: [ { bulletPoint: string, narration: string } ] } ]. Absolutely no extra text or formatting."""
+                }   
             ],
-            model="gpt-4-turbo",
+            model="gpt-4o",
         )
 
         # print(chat_completion.choices[0].message.content) 
