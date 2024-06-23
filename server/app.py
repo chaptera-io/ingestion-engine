@@ -4,12 +4,12 @@ import uuid
 from firebase_admin import credentials, firestore
 import os
 import openai
+from openai import OpenAI
 import pdfplumber
 import openai
 import io
-
-
-
+import json
+import datetime
 import requests
  
 # infer credentials from environment variables
@@ -31,9 +31,7 @@ db = firestore.client()
  
 @app.route('/store_content', methods=['POST'])
 def store_content():
- 
-# Define PDF file path and other details directly
-# pdf_path = "/Users/jq4386/Github/Personal/berkeley-hackathon/Chapter 9.pdf"  # Replace with your actual path
+    # Define PDF file path and other details directly
     data = request.get_json()
     project_name = data['project_name']
     chapter = data['chapter']
@@ -67,15 +65,71 @@ def store_content():
         # Extract text directly from PDF
         extracted_text = extract_text_from_pdf(url)
 
-        # Generate document ID and store in Firestore
-        doc_id = str(uuid.uuid4())
-        doc_ref = db.collection('raw').document(doc_id)
-        doc_ref.set({
-            "tag": f"{project_name}/{chapter}/{content_type}",
-            "content": extracted_text  
-        })
+        # OpenAI API call
+        key = os.environ.get('OPENAI_API_KEY')
 
-        return jsonify({"message": f"Content for {project_name}/{chapter}/{content_type} stored successfully"}), 200
+        client = OpenAI(
+            # This is the default and can be omitted
+            # api_key=os.getenv("OPENAI_API_KEY"),
+            api_key=key
+        )
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": """You are a friendly, yet highly professional tutor. You are very confident of your answers given your information source. Read the chapter, and give me a combination of 
+                    script for narration and content for the slide. Each slide will have a title and some bullet points. As an experienced tutor, you give detailed bullet points that briefly summarize each 
+                    concept, not just list them as a title. Further, you. are very meticulous, and make lots of bullet points for each main topic, not just a few. The bullet points should look like 'concept name - 
+                    few words ultra brief summary'  
+                    Give me only the json output in the following schema:[ { slideTitle: string, bulletPoints: [ { bulletPoint: string, narration: string } ] } ]Chapter= """ + extracted_text
+                }
+            ],
+            model="gpt-4-turbo",
+        )
+
+        # print(chat_completion.choices[0].message.content) 
+
+
+        script_data = json.loads(chat_completion.choices[0].message.content)
+
+        try:
+            # Store TextDump in Firestore
+            doc_id = str(uuid.uuid4())
+            doc_ref = db.collection('raw').document(doc_id)
+            doc_ref.set({
+                "content": extracted_text, 
+                "tag": f"{project_name}/{chapter}/raw",
+            })
+            
+            # Store script data in Firestore
+            doc_id = str(uuid.uuid4())
+            script_id = doc_id
+            doc_ref = db.collection('scripts').document(doc_id)
+            doc_ref.set({
+                "sections": script_data, 
+                "tag": f"{project_name}/{chapter}/script",
+            })
+            
+            # Store Job in Firestore
+            doc_id = str(uuid.uuid4())
+            doc_ref = db.collection('jobs').document(doc_id)
+            doc_ref.set({
+                "created_at": datetime.datetime.now(),
+                "script_id": script_id,
+                "status": "queued"
+            })
+
+            return jsonify({"message": f"Content for {project_name}/{chapter}/{content_type} stored successfully, job successfully created."}), 200
+        
+
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500
+        
+        
+
+
+
+        
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
@@ -99,13 +153,9 @@ def get_content():
 
         fetched_content = doc.get('content')
 
-        # OpenAI API call
-        response = openai.Completion.create(
-            model="gpt-4o",
-            prompt=f""
-        )
-
-        return jsonify({"content": fetched_content}), 200
+        
+        
+        
     
     except Exception as e:
         return jsonify({"error": str(e)}), 500
