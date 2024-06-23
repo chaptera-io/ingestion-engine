@@ -3,9 +3,9 @@ import firebase_admin
 import uuid
 from firebase_admin import credentials, firestore
 import os
+import openai
 import json
-
-
+import pdfplumber
 
 # infer credentials from environment variables
 firebase_admin.initialize_app()
@@ -17,42 +17,58 @@ openai.api_key = os.environ.get('OPENAI_API_KEY')
 app = Flask(__name__)
 db = firestore.client()
 
-def load_extracted_data(file_path):
-    """
-    Loads extracted data from a JSON file.
-    """
-    with open(file_path, 'r') as f:
-        return json.load(f)
+# def load_extracted_data(file_path):
+#     """
+#     Loads extracted data from a JSON file.
+#     """
+#     with open(file_path, 'r') as f:
+#         return json.load(f)
 
 @app.route('/store_content', methods=['POST'])
 def store_content():
-    try:
-        data = request.get_json()
-        file_path = data['file_path']  # Get the path to your JSON file
-
-        # Load extracted data from JSON
-        extracted_data = load_extracted_data(file_path)
-
-        # Extract specific fields from the JSON data
-        project_name = extracted_data['project_name']
-        chapter = extracted_data['chapter']
-        type = extracted_data['type']  # Note: using 'type' instead of the reserved keyword 'type'
-        content = extracted_data['content']
+    
+# Define PDF file path and other details directly
+    pdf_path = "/Users/jq4386/Github/Personal/berkeley-hackathon/Chapter 9.pdf"  # Replace with your actual path
+    project_name = "Preferential Trade Agreements"
+    chapter = "9"
+    content_type = "TextDump"
         
-        # Generate document ID and store
+    def extract_text_from_page(page):
+        """
+        Extracts text from a single PDF page, attempting OCR if the initial extraction fails.
+        """
+        text = page.extract_text(x_tolerance=3, y_tolerance=3)
+        if not text:
+            text = page.extract_text(x_tolerance=3, y_tolerance=3, use_text_flow=True, extra_attrs=["fontname", "size"])
+        return text
+
+    def extract_text_from_pdf(pdf_path):
+        extracted_text = ""
+        with pdfplumber.open(pdf_path) as pdf:
+            for page_num, page in enumerate(pdf.pages):
+                print(f"Processing page {page_num + 1}...")
+                extracted_text += extract_text_from_page(page) + "\n\n"
+        return extracted_text
+    
+    try:
+        # Extract text directly from PDF
+        extracted_text = extract_text_from_pdf(pdf_path)
+
+        # Generate document ID and store in Firestore
         doc_id = str(uuid.uuid4())
         doc_ref = db.collection('raw').document(doc_id)
-        
-        # Set document data using extracted values
         doc_ref.set({
-            "tag": f"{project_name}/{chapter}/{type}",
-            "content": content
+            "tag": f"{project_name}/{chapter}/{content_type}",
+            "content": extracted_text  
         })
 
-        return jsonify({"message": f"Content for {project_name}/{chapter}/{type} stored successfully"}), 200
+        return jsonify({"message": f"Content for {project_name}/{chapter}/{content_type} stored successfully"}), 200
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+    
+    
 @app.route('/get_content', methods=['GET'])
 def get_content():
     try: 
