@@ -1,0 +1,121 @@
+import pdfplumber
+from concurrent.futures import ThreadPoolExecutor
+import time
+
+
+
+
+# Specify the path to your PDF textbook
+pdf_path = "/Users/jq4386/Github/Personal/berkeley-hackathon/Chapter 9.pdf"
+
+
+def extract_text_from_page(pdf_path, page_num):
+   """Extracts text from a single page, given the PDF path and page number."""
+   try:
+       with pdfplumber.open(pdf_path) as pdf:
+           page = pdf.pages[page_num]
+           return page.extract_text(x_tolerance=1, y_tolerance=1)
+   except (KeyError, ValueError,
+           pdfplumber.pdfminer.pdftypes.PDFException,
+           pdfplumber.pdfminer.pdfdocument.PDFTextExtractionNotAllowed) as e:
+       print(f"Error extracting text from page {page_num + 1}: {e}")
+       return ""
+
+
+def main(pdf_path, output_file="extracted_text.txt", max_workers=None):
+   extracted_text = [""] * len(pdfplumber.open(pdf_path).pages)  # Initialize list to store results in order
+
+
+   with ThreadPoolExecutor(max_workers=max_workers) as executor:
+       # Submit tasks to extract text from each page
+       futures = {
+           executor.submit(extract_text_from_page, pdf_path, page_num): page_num
+           for page_num in range(len(pdfplumber.open(pdf_path).pages))
+       }
+
+
+       # Collect results as they become available, maintaining page order
+       for future in futures:
+           page_num = futures[future]
+           extracted_text[page_num] = future.result()
+
+
+   # Combine results, ignoring empty pages
+   extracted_text = "\n\n".join(filter(None, extracted_text))
+
+
+   # Save extracted text
+   with open(output_file, "w", encoding="utf-8") as f:
+       f.write(extracted_text)
+   print(f"Text extraction complete (with potential errors)! Extracted text saved to {output_file}.")
+
+
+
+
+# if __name__ == "__main__":
+#     main(pdf_path) 
+  
+def time_extraction_runs(pdf_path, output_file, num_runs=10, max_workers=None):
+   """Runs text extraction multiple times and records the execution times."""
+   run_times = []
+
+
+   for _ in range(num_runs):
+       start_time = time.perf_counter()  # More accurate timing for performance analysis
+       main(pdf_path, output_file, max_workers)
+       end_time = time.perf_counter()
+       run_time = end_time - start_time
+       run_times.append(run_time)
+       print(f"Run completed in {run_time:.2f} seconds")
+
+
+   # Calculate and display statistics
+   average_time = sum(run_times) / num_runs
+   min_time = min(run_times)
+   max_time = max(run_times)
+   print(f"\nStatistics for {num_runs} runs:")
+   print(f"  Average time: {average_time:.2f} seconds")
+   print(f"  Minimum time: {min_time:.2f} seconds")
+   print(f"  Maximum time: {max_time:.2f} seconds")
+   return average_time
+if __name__ == "__main__":
+   # ... (Your pdf_path definition) ...
+
+
+   # Specify the number of runs
+   num_runs = 10
+
+
+   # Run the extraction and timing
+   average_time = time_extraction_runs(pdf_path, "extracted_text.txt", num_runs)
+
+
+
+# # Store the extracted text as a JSON file
+# def format_text_as_json(book_name, chapter, content_type, content):
+#     """Formats text into a JSON structure representing book content."""
+#     formatted_text = {
+#         "book_name": book_name,
+#         "chapter": chapter,
+#         "type": content_type,
+#         "content": content
+#     }
+#     return formatted_text
+
+
+
+
+# # Example Usage:
+# book_name = "Preferential Trade Agreements"
+# chapter = "9"
+# content_type = "TextDump"
+# content = extracted_text
+
+
+# formatted_json = format_text_as_json(book_name, chapter, content_type, content)
+# print(formatted_json)
+
+
+
+
+
