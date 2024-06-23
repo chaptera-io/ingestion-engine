@@ -1,3 +1,2 @@
 flask
 firebase_admin
-dotenv

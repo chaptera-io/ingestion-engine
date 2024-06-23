@@ -1,8 +1,11 @@
 from flask import Flask, request, jsonify
 import firebase_admin
+import uuid
 from firebase_admin import credentials, firestore
-from dotenv import load_dotenv
 import os
+
+# infer credentials from environment variables
+firebase_admin.initialize_app()
 
 
 app = Flask(__name__)
@@ -18,18 +21,41 @@ def store_content():
         type = data['type']
         content = data['content']
 
-        # Create Firestore document ID
-        doc_id = f"{project_name}/{chapter}/{type}"
+        # Generate random hash for document ID
+        doc_id = str(uuid.uuid4())
 
-        # Create document reference
-        doc_ref = db.collection('content').document(doc_id)
+        # Create document reference in the raw collection
+        doc_ref = db.collection('raw').document(doc_id)
 
         # Set document data
         doc_ref.set({
+            "tag": f"{project_name}/{chapter}/{type}",
             "content": content
         })
 
-        return jsonify({"message": "Content for {project_name}/{chapter}/{type} stored successfully"})
+        return jsonify({"message": "Content for {project_name}/{chapter}/{type} stored successfully"}), 200
+    
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/get_content', methods=['GET'])
+def get_content():
+    try: 
+        tag = request.args.get('tag')
+        
+        if not tag:
+            return jsonify({"error": "Missing 'tag' parameter"}), 400
+        
+        # Query documents with the matching tag
+        docs = db.collection('raw').where('tag', '==', tag).limit(1).get()
+        doc = docs[0]
+
+        if not doc:
+            return jsonify({"message": "there is no raw content associated with {tag} in the database"}), 404
+
+        fetched_content = doc.get('content')
+
+        return jsonify({"content": fetched_content}), 200
     
     except Exception as e:
         return jsonify({"error": str(e)}), 500
