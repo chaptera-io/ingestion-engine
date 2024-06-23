@@ -126,42 +126,85 @@ def store_content():
 
         except Exception as e:
             return jsonify({"error": str(e)}), 500
-        
-        
-
-
-
-        
+    
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
     
     
-@app.route('/get_content', methods=['GET'])
-def get_content():
-    try: 
-        tag = request.args.get('tag')
+@app.route('/get_narration', methods=['GET'])
+def get_narration(): 
+    tag = request.args.get('tag')
         
-        if not tag:
-            return jsonify({"error": "Missing 'tag' parameter"}), 400
+    if not tag:
+        return jsonify({"error": "Missing 'tag' parameter"}), 400
         
+    try:
         # Query documents with the matching tag
-        docs = db.collection('raw').where('tag', '==', tag).limit(1).get()
-        doc = docs[0]
+        docs = db.collection('scripts').where('tag', '==', tag).stream()
 
-        if not doc:
-            return jsonify({"message": "there is no raw content associated with {tag} in the database"}), 404
+        all_narration = ""
 
-        fetched_content = doc.get('content')
+        for doc in docs:
+            script_data = doc.to_dict()['sections']
+            for section in script_data:
+                for bullet_point in section['bulletPoints']:
+                    all_narration += bullet_point['narration'] + " "
 
+        key = os.environ.get('OPENAI_API_KEY')
+        client = OpenAI(
+            api_key=key
+        )
+        chat_completion = client.chat.completions.create(
+            messages=[
+                {
+                    "role": "user",
+                    "content": """You are a friendly, yet highly professional tutor. Based on the data_input """ + all_narration + """,
+                    construct three thought provoking free response questions that require one to two sentence long responses. Output
+                    as a list of three strings. Return nothing else. Format should be [Question_String1, Question_String2, Question_String3 ]"""
+                }   
+            ],
+            model="gpt-4o",
+        )
         
+        # transform chat_completion to list of strings
         
+        try:
+            question_list = json.loads(chat_completion.choices[0].message.content)
+            doc_id = str(uuid.uuid4())
+            doc_ref = db.collection('short_response').document(doc_id)
+            doc_ref.set({
+                "questions": question_list,
+            })
+
+            return jsonify({"message": "Questions stored successfully, job successfully created."}), 200
         
+
+        except Exception as e:
+            return jsonify({"error": str(e)}), 500 
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON: {e}")
+            question_list = []
+
+
+        # get user input
+        
+            
+        # pass rubric and user input to gpt to grade and give feed back
+        # store question, user_input,feedback
+
+        # store question, rubric (generated)
+        try:
+            
     
     except Exception as e:
         return jsonify({"error": str(e)}), 500
     
+@app.route('/check_FRQ_answer', methods=['GET'])
+def check_FRQ_answer():
+   
+
 if __name__ == '__main__':
     app.run(debug=True)
     
